@@ -1,1 +1,59 @@
-{"data":"ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRm9vdGVyKCkgewogIHJldHVybiAoCiAgICA8Zm9vdGVyIHN0eWxlPXt7CiAgICAgIHBhZGRpbmc6ICcyLjVyZW0gNSUnLAogICAgICBiYWNrZ3JvdW5kOiAnIzBhMGEwYScsCiAgICAgIGJvcmRlclRvcDogJzFweCBzb2xpZCByZ2JhKDIwMSwxNjgsNzYsMC4xKScsCiAgICB9fT4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZvb3Rlci1pbm5lciI+CiAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgZm9udEZhbWlseTogJ0Nvcm1vcmFudCBHYXJhbW9uZCwgc2VyaWYnLAogICAgICAgICAgZm9udFNpemU6ICcxLjFyZW0nLAogICAgICAgICAgZm9udFdlaWdodDogMzAwLAogICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjFlbScsCiAgICAgICAgfX0+CiAgICAgICAgICBNYXhpbWlsaWFuIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnI2M5YTg0YycgfX0+U2NodWx6ZTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgIGZvbnRTaXplOiAnMC42NXJlbScsCiAgICAgICAgICBjb2xvcjogJyMzYTNhM2EnLAogICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMTVlbScsCiAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICB9fT4KICAgICAgICAgIMKpIHtuZXcgRGF0ZSgpLmdldEZ1bGxZZWFyKCl9IMK3IEFsbCBSaWdodHMgUmVzZXJ2ZWQKICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGdhcDogJzEuNXJlbScsIGZsZXhXcmFwOiAnd3JhcCcsIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJyB9fT4KICAgICAgICAgIHtbCiAgICAgICAgICAgIHsgbGFiZWw6ICdJbnN0YWdyYW0nLCBocmVmOiAnaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYXguc21sXy8nIH0sCiAgICAgICAgICAgIHsgbGFiZWw6ICdJTURiJywgaHJlZjogJ2h0dHBzOi8vd3d3LmltZGIuY29tL25hbWUvbm0xNTAwNTEzMi8nIH0sCiAgICAgICAgICAgIHsgbGFiZWw6ICdGaWxtbWFrZXJzJywgaHJlZjogJ2h0dHBzOi8vd3d3LmZpbG1tYWtlcnMuZXUvZW4vYWN0b3JzL21heGltaWxpYW4tc2NodWx6ZScgfSwKICAgICAgICAgIF0ubWFwKCh7IGxhYmVsLCBocmVmIH0pID0+ICgKICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBrZXk9e2xhYmVsfQogICAgICAgICAgICAgIGhyZWY9e2hyZWZ9CiAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgcmVsPSJub3JlZmVycmVyIgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjY1cmVtJywKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjJlbScsCiAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgICAgIGNvbG9yOiAnIzNhM2EzYScsCiAgICAgICAgICAgICAgICB0ZXh0RGVjb3JhdGlvbjogJ25vbmUnLAogICAgICAgICAgICAgICAgdHJhbnNpdGlvbjogJ2NvbG9yIDAuM3MnLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgb25Nb3VzZUVudGVyPXtlID0+IGUudGFyZ2V0LnN0eWxlLmNvbG9yID0gJyNjOWE4NGMnfQogICAgICAgICAgICAgIG9uTW91c2VMZWF2ZT17ZSA9PiBlLnRhcmdldC5zdHlsZS5jb2xvciA9ICcjM2EzYTNhJ30KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtsYWJlbH0KICAgICAgICAgICAgPC9hPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9mb290ZXI+CiAgKQp9Cg=="}
+export default function Footer() {
+  return (
+    <footer style={{
+      padding: '2.5rem 5%',
+      background: '#0a0a0a',
+      borderTop: '1px solid rgba(201,168,76,0.1)',
+    }}>
+      <div className="footer-inner">
+        <div style={{
+          fontFamily: 'Cormorant Garamond, serif',
+          fontSize: '1.1rem',
+          fontWeight: 300,
+          color: '#f5f0eb',
+          letterSpacing: '0.1em',
+        }}>
+          Maximilian <span style={{ color: '#c9a84c' }}>Schulze</span>
+        </div>
+
+        <div style={{
+          fontFamily: 'Inter, sans-serif',
+          fontSize: '0.65rem',
+          color: '#3a3a3a',
+          letterSpacing: '0.15em',
+          textTransform: 'uppercase',
+        }}>
+          © {new Date().getFullYear()} · All Rights Reserved
+        </div>
+
+        <div style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap', justifyContent: 'center' }}>
+          {[
+            { label: 'Instagram', href: 'https://www.instagram.com/max.sml_/' },
+            { label: 'IMDb', href: 'https://www.imdb.com/name/nm15005132/' },
+            { label: 'Filmmakers', href: 'https://www.filmmakers.eu/en/actors/maximilian-schulze' },
+          ].map(({ label, href }) => (
+            <a
+              key={label}
+              href={href}
+              target="_blank"
+              rel="noreferrer"
+              style={{
+                fontFamily: 'Inter, sans-serif',
+                fontSize: '0.65rem',
+                letterSpacing: '0.2em',
+                textTransform: 'uppercase',
+                color: '#3a3a3a',
+                textDecoration: 'none',
+                transition: 'color 0.3s',
+              }}
+              onMouseEnter={e => e.target.style.color = '#c9a84c'}
+              onMouseLeave={e => e.target.style.color = '#3a3a3a'}
+            >
+              {label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </footer>
+  )
+}

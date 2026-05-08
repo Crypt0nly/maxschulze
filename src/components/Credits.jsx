@@ -1,1 +1,300 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmLCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JwppbXBvcnQgeyBtb3Rpb24sIHVzZUluVmlldyB9IGZyb20gJ2ZyYW1lci1tb3Rpb24nCgpjb25zdCBjcmVkaXRzID0gewogIHRlbGV2aXNpb246IFsKICAgIHsKICAgICAgeWVhcjogJzIwMjQnLAogICAgICB0aXRsZTogJ1RoZSBSZWhlYXJzYWwnLAogICAgICByb2xlOiAnQ29tbWFuZGluZyBPZmZpY2VyJywKICAgICAgc3R1ZGlvOiAnSEJPIC8gV2FybmVyIEJyb3RoZXJzJywKICAgICAgZGlyZWN0b3I6ICdOYXRoYW4gRmllbGRlcicsCiAgICAgIHR5cGU6ICdUZWxldmlzaW9uIFNlcmllcycsCiAgICAgIGhpZ2hsaWdodDogdHJ1ZSwKICAgIH0sCiAgXSwKICBmaWxtOiBbCiAgICB7CiAgICAgIHllYXI6ICcyMDI0JywKICAgICAgdGl0bGU6ICcyNCBIb3VycyB0byBELURheScsCiAgICAgIHJvbGU6ICdIdWJlcicsCiAgICAgIHN0dWRpbzogJ1RoZSBBc3lsdW0nLAogICAgICBkaXJlY3RvcjogJ01vbnJvZSBSb2JlcnRzb24nLAogICAgICB0eXBlOiAnRmVhdHVyZSBGaWxtJywKICAgICAgaGlnaGxpZ2h0OiB0cnVlLAogICAgfSwKICAgIHsKICAgICAgeWVhcjogJzIwMjQnLAogICAgICB0aXRsZTogJ0kgV2lsbCBBbHdheXMgQmUgWW91ciBBbmdlbCcsCiAgICAgIHJvbGU6ICdEZW5pcycsCiAgICAgIHN0dWRpbzogJ0luZGVwZW5kZW50JywKICAgICAgZGlyZWN0b3I6ICdNYXJpYSBNZWxuaWNoZW5rbycsCiAgICAgIHR5cGU6ICdTaG9ydCBGaWxtJywKICAgIH0sCiAgICB7CiAgICAgIHllYXI6ICcyMDI0JywKICAgICAgdGl0bGU6ICdUb21vcnJvdycsCiAgICAgIHJvbGU6ICdEcml2ZXInLAogICAgICBzdHVkaW86ICdSaXNpbmcgVGlkZSBQcm9kdWN0aW9ucycsCiAgICAgIGRpcmVjdG9yOiAnSmFja3NvbiBTY2hsZWtld2V5JywKICAgICAgdHlwZTogJ1Nob3J0IEZpbG0nLAogICAgfSwKICAgIHsKICAgICAgeWVhcjogJzIwMjQnLAogICAgICB0aXRsZTogJ0Zpc2hlciB2cyBIYXllcycsCiAgICAgIHJvbGU6ICdEYXZpZCBIYXllcycsCiAgICAgIHN0dWRpbzogJ0FGSScsCiAgICAgIGRpcmVjdG9yOiAnU2ltb24gU2NobmVpZGVyJywKICAgICAgdHlwZTogJ1Nob3J0IEZpbG0nLAogICAgfSwKICAgIHsKICAgICAgeWVhcjogJzIwMjMnLAogICAgICB0aXRsZTogJ0RhcyBTaWNoZXJlIEhhdXMnLAogICAgICByb2xlOiAnS2xhdXMnLAogICAgICBzdHVkaW86ICdDaGFwbWFuIE1lZGlhIEFydHMnLAogICAgICBkaXJlY3RvcjogJ0xpbnVzIEVuZ2VsaGFyZHQnLAogICAgICB0eXBlOiAnU2hvcnQgRmlsbScsCiAgICB9LAogICAgewogICAgICB5ZWFyOiAnMjAyMycsCiAgICAgIHRpdGxlOiAnRWNob2VzIG9mIFRvbW9ycm93JywKICAgICAgcm9sZTogJ01yLiBNaWxsZXInLAogICAgICBzdHVkaW86ICdNb3ZpbmcgQ2FudmFzIEZpbG1zJywKICAgICAgZGlyZWN0b3I6ICdGZXJuYW5kYSBWaWxlbGEnLAogICAgICB0eXBlOiAnU2hvcnQgRmlsbScsCiAgICB9LAogICAgewogICAgICB5ZWFyOiAnMjAyMicsCiAgICAgIHRpdGxlOiAnR2FwIFllYXInLAogICAgICByb2xlOiAnUm93YW4nLAogICAgICBzdHVkaW86ICdDaGFwbWFuIE1lZGlhIEFydHMnLAogICAgICBkaXJlY3RvcjogJ1hpYW9jaGVuIFd1JywKICAgICAgdHlwZTogJ1Nob3J0IEZpbG0nLAogICAgfSwKICBdLAogIHRoZWF0cmU6IFsKICAgIHsKICAgICAgeWVhcjogJzIwMjUnLAogICAgICB0aXRsZTogJ1doYXQgVGhlIFN0YXJ0dXAnLAogICAgICByb2xlOiAnT3JsYW5kbycsCiAgICAgIHN0dWRpbzogJ1NoYWtlc3BlYXJlIFJlbG9hZGVkIC8gQXJ0IFNwYWNlIGluIEV4aWxlIEJlcmxpbicsCiAgICAgIGRpcmVjdG9yOiAnTWVnIFpyaW5pJywKICAgICAgdHlwZTogJ1RoZWF0cmUnLAogICAgfSwKICAgIHsKICAgICAgeWVhcjogJzIwMjInLAogICAgICB0aXRsZTogJ1doZXJlIFRoZSBDcm9zcyBJcyBNYWRlJywKICAgICAgcm9sZTogJ05hdCBCYXJ0bGV0dCcsCiAgICAgIHN0dWRpbzogJ1RoZSBNYXJpbHluIE1vbnJvZSBUaGVhdHJlLCBMb3MgQW5nZWxlcycsCiAgICAgIGRpcmVjdG9yOiAnUmVtaW5ndG9uIE1vc2VzJywKICAgICAgdHlwZTogJ1RoZWF0cmUnLAogICAgfSwKICAgIHsKICAgICAgeWVhcjogJzIwMjEnLAogICAgICB0aXRsZTogJ0ZpZGRsZXIgb24gdGhlIFJvb2YgKEFuYXRldmthKScsCiAgICAgIHJvbGU6ICdMYXphciBXb2xmJywKICAgICAgc3R1ZGlvOiAnU2hhcm91biBUaGVhdGVyLCBXb2xmc2J1cmcnLAogICAgICBkaXJlY3RvcjogJ0V5YWwgTGVybmVyJywKICAgICAgdHlwZTogJ1RoZWF0cmUnLAogICAgfSwKICBdLAogIGF1ZGlvOiBbCiAgICB7CiAgICAgIHllYXI6ICcyMDI0JywKICAgICAgdGl0bGU6ICdUdXJuaW5nIFBvaW50OiBUaGUgQm9tYiBhbmQgdGhlIENvbGQgV2FyJywKICAgICAgcm9sZTogJ0ZlYXR1cmVkIFZvaWNlJywKICAgICAgc3R1ZGlvOiAnTmV0ZmxpeCcsCiAgICAgIGRpcmVjdG9yOiAn4oCUJywKICAgICAgdHlwZTogJ0R1YmJpbmcnLAogICAgfSwKICBdLAp9Cgpjb25zdCB0YWJzID0gWydmaWxtJywgJ3RlbGV2aXNpb24nLCAndGhlYXRyZScsICdhdWRpbyddCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBDcmVkaXRzKCkgewogIGNvbnN0IHJlZiA9IHVzZVJlZihudWxsKQogIGNvbnN0IGluVmlldyA9IHVzZUluVmlldyhyZWYsIHsgb25jZTogdHJ1ZSwgbWFyZ2luOiAnLTgwcHgnIH0pCiAgY29uc3QgW2FjdGl2ZVRhYiwgc2V0QWN0aXZlVGFiXSA9IHVzZVN0YXRlKCdmaWxtJykKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJjcmVkaXRzIiByZWY9e3JlZn0gY2xhc3NOYW1lPSJzZWN0aW9uLXBhZGRpbmciIHN0eWxlPXt7CiAgICAgIHBhZGRpbmc6ICc4cmVtIDglJywKICAgICAgYmFja2dyb3VuZDogJyMwZDBkMGQnLAogICAgICBwb3NpdGlvbjogJ3JlbGF0aXZlJywKICAgIH19PgogICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsIHRvcDogMCwgbGVmdDogJzglJywgcmlnaHQ6ICc4JScsCiAgICAgICAgaGVpZ2h0OiAnMXB4JywKICAgICAgICBiYWNrZ3JvdW5kOiAnbGluZWFyLWdyYWRpZW50KDkwZGVnLCB0cmFuc3BhcmVudCwgcmdiYSgyMDEsMTY4LDc2LDAuMyksIHRyYW5zcGFyZW50KScsCiAgICAgIH19IC8+CgogICAgICA8ZGl2IHN0eWxlPXt7IG1heFdpZHRoOiAnMTIwMHB4JywgbWFyZ2luOiAnMCBhdXRvJyB9fT4KICAgICAgICB7LyogSGVhZGVyICovfQogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICBhbmltYXRlPXtpblZpZXcgPyB7IG9wYWNpdHk6IDEsIHk6IDAgfSA6IHt9fQogICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC43IH19CiAgICAgICAgICBzdHlsZT17eyBtYXJnaW5Cb3R0b206ICczcmVtJyB9fQogICAgICAgID4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgICAgZm9udFNpemU6ICcwLjdyZW0nLAogICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC40ZW0nLAogICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgY29sb3I6ICcjYzlhODRjJywKICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMXJlbScsCiAgICAgICAgICB9fT4KICAgICAgICAgICAgRmlsbW9ncmFwaHkKICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgyIHN0eWxlPXt7CiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdDb3Jtb3JhbnQgR2FyYW1vbmQsIHNlcmlmJywKICAgICAgICAgICAgZm9udFNpemU6ICdjbGFtcCgycmVtLCA2dncsIDMuNXJlbSknLAogICAgICAgICAgICBmb250V2VpZ2h0OiAzMDAsCiAgICAgICAgICAgIGNvbG9yOiAnI2Y1ZjBlYicsCiAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuMTUsCiAgICAgICAgICB9fT4KICAgICAgICAgICAgU2VsZWN0ZWQgPGVtIHN0eWxlPXt7IGNvbG9yOiAnI2M5YTg0YycgfX0+Q3JlZGl0czwvZW0+CiAgICAgICAgICA8L2gyPgogICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgey8qIFRhYnMg4oCUIHNjcm9sbGFibGUgb24gbW9iaWxlICovfQogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAgfX0KICAgICAgICAgIGFuaW1hdGU9e2luVmlldyA/IHsgb3BhY2l0eTogMSB9IDoge319CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYsIGRlbGF5OiAwLjIgfX0KICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgICAgZ2FwOiAnMCcsCiAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzJyZW0nLAogICAgICAgICAgICBib3JkZXJCb3R0b206ICcxcHggc29saWQgcmdiYSgyMDEsMTY4LDc2LDAuMiknLAogICAgICAgICAgICBvdmVyZmxvd1g6ICdhdXRvJywKICAgICAgICAgICAgV2Via2l0T3ZlcmZsb3dTY3JvbGxpbmc6ICd0b3VjaCcsCiAgICAgICAgICAgIHNjcm9sbGJhcldpZHRoOiAnbm9uZScsCiAgICAgICAgICAgIG1zT3ZlcmZsb3dTdHlsZTogJ25vbmUnLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICB7dGFicy5tYXAoKHRhYikgPT4gKAogICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAga2V5PXt0YWJ9CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0QWN0aXZlVGFiKHRhYil9CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICdub25lJywKICAgICAgICAgICAgICAgIGJvcmRlcjogJ25vbmUnLAogICAgICAgICAgICAgICAgYm9yZGVyQm90dG9tOiBhY3RpdmVUYWIgPT09IHRhYiA/ICcycHggc29saWQgI2M5YTg0YycgOiAnMnB4IHNvbGlkIHRyYW5zcGFyZW50JywKICAgICAgICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInLAogICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnMC43cmVtJywKICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDQwMCwKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjJlbScsCiAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgICAgIGNvbG9yOiBhY3RpdmVUYWIgPT09IHRhYiA/ICcjYzlhODRjJyA6ICcjOGE4YThhJywKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICcwLjhyZW0gMS4ycmVtJywKICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJy0xcHgnLAogICAgICAgICAgICAgICAgdHJhbnNpdGlvbjogJ2FsbCAwLjNzJywKICAgICAgICAgICAgICAgIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgICAgICAgICAgICAgZmxleFNocmluazogMCwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge3RhYn0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgIHsvKiBDcmVkaXRzIGxpc3QgKi99CiAgICAgICAgPGRpdj4KICAgICAgICAgIHtjcmVkaXRzW2FjdGl2ZVRhYl0ubWFwKChjcmVkaXQsIGkpID0+ICgKICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICBrZXk9e2NyZWRpdC50aXRsZX0KICAgICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHg6IC0yMCB9fQogICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeDogMCB9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNCwgZGVsYXk6IGkgKiAwLjA3IH19CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJjcmVkaXQtcm93IgogICAgICAgICAgICAgIHdoaWxlSG92ZXI9e3sgeDogNCB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgey8qIFllYXIgKi99CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0Nvcm1vcmFudCBHYXJhbW9uZCwgc2VyaWYnLAogICAgICAgICAgICAgICAgZm9udFNpemU6ICdjbGFtcCgxLjNyZW0sIDR2dywgMS44cmVtKScsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiAzMDAsCiAgICAgICAgICAgICAgICBjb2xvcjogY3JlZGl0LmhpZ2hsaWdodCA/ICcjYzlhODRjJyA6ICcjM2EzYTNhJywKICAgICAgICAgICAgICAgIGZsZXhTaHJpbms6IDAsCiAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICB7Y3JlZGl0LnllYXJ9CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIHsvKiBUaXRsZSArIG1ldGEgKi99CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBtaW5XaWR0aDogMCB9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgZ2FwOiAnMC42cmVtJywKICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMC4zcmVtJywKICAgICAgICAgICAgICAgICAgZmxleFdyYXA6ICd3cmFwJywKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdDb3Jtb3JhbnQgR2FyYW1vbmQsIHNlcmlmJywKICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogJ2NsYW1wKDFyZW0sIDMuNXZ3LCAxLjNyZW0pJywKICAgICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgICAgICAgICAgICB3b3JkQnJlYWs6ICdicmVhay13b3JkJywKICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAge2NyZWRpdC50aXRsZX0KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICB7Y3JlZGl0LmhpZ2hsaWdodCAmJiAoCiAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuNThyZW0nLAogICAgICAgICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMmVtJywKICAgICAgICAgICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjMGEwYTBhJywKICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICcjYzlhODRjJywKICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6ICcwLjE1cmVtIDAuNnJlbScsCiAgICAgICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICAgICAgICAgICAgICBmbGV4U2hyaW5rOiAwLAogICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgRmVhdHVyZWQKICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICdjbGFtcCgwLjY4cmVtLCAydncsIDAuNzhyZW0pJywKICAgICAgICAgICAgICAgICAgY29sb3I6ICcjOGE4YThhJywKICAgICAgICAgICAgICAgICAgd29yZEJyZWFrOiAnYnJlYWstd29yZCcsCiAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgYXMgPGVtPntjcmVkaXQucm9sZX08L2VtPiDCtyBkaXIuIHtjcmVkaXQuZGlyZWN0b3J9IMK3IHtjcmVkaXQuc3R1ZGlvfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICB7LyogU2hvdyB0eXBlIG9uIG1vYmlsZSBzaW5jZSB3ZSBoaWRlIHRoZSBjb2x1bW4gKi99CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnMC42cmVtJywKICAgICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMTVlbScsCiAgICAgICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgICAgICBjb2xvcjogJyMzYTNhM2EnLAogICAgICAgICAgICAgICAgICBtYXJnaW5Ub3A6ICcwLjNyZW0nLAogICAgICAgICAgICAgICAgICBkaXNwbGF5OiAnbm9uZScsCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNyZWRpdC10eXBlLW1vYmlsZSIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge2NyZWRpdC50eXBlfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIHsvKiBUeXBlIGxhYmVsIOKAlCBoaWRkZW4gb24gbW9iaWxlIHZpYSBDU1MgKi99CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNyZWRpdC10eXBlLWxhYmVsIj4KICAgICAgICAgICAgICAgIHtjcmVkaXQudHlwZX0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPHN0eWxlPntgCiAgICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDc2OHB4KSB7CiAgICAgICAgICAuY3JlZGl0LXR5cGUtbW9iaWxlIHsgZGlzcGxheTogYmxvY2sgIWltcG9ydGFudDsgfQogICAgICAgIH0KICAgICAgYH08L3N0eWxlPgogICAgPC9zZWN0aW9uPgogICkKfQo="}
+import { useRef, useState } from 'react'
+import { motion, useInView } from 'framer-motion'
+
+const credits = {
+  television: [
+    {
+      year: '2024',
+      title: 'The Rehearsal',
+      role: 'Commanding Officer',
+      studio: 'HBO / Warner Brothers',
+      director: 'Nathan Fielder',
+      type: 'Television Series',
+      highlight: true,
+    },
+  ],
+  film: [
+    {
+      year: '2024',
+      title: '24 Hours to D-Day',
+      role: 'Huber',
+      studio: 'The Asylum',
+      director: 'Monroe Robertson',
+      type: 'Feature Film',
+      highlight: true,
+    },
+    {
+      year: '2024',
+      title: 'I Will Always Be Your Angel',
+      role: 'Denis',
+      studio: 'Independent',
+      director: 'Maria Melnichenko',
+      type: 'Short Film',
+    },
+    {
+      year: '2024',
+      title: 'Tomorrow',
+      role: 'Driver',
+      studio: 'Rising Tide Productions',
+      director: 'Jackson Schlekewey',
+      type: 'Short Film',
+    },
+    {
+      year: '2024',
+      title: 'Fisher vs Hayes',
+      role: 'David Hayes',
+      studio: 'AFI',
+      director: 'Simon Schneider',
+      type: 'Short Film',
+    },
+    {
+      year: '2023',
+      title: 'Das Sichere Haus',
+      role: 'Klaus',
+      studio: 'Chapman Media Arts',
+      director: 'Linus Engelhardt',
+      type: 'Short Film',
+    },
+    {
+      year: '2023',
+      title: 'Echoes of Tomorrow',
+      role: 'Mr. Miller',
+      studio: 'Moving Canvas Films',
+      director: 'Fernanda Vilela',
+      type: 'Short Film',
+    },
+    {
+      year: '2022',
+      title: 'Gap Year',
+      role: 'Rowan',
+      studio: 'Chapman Media Arts',
+      director: 'Xiaochen Wu',
+      type: 'Short Film',
+    },
+  ],
+  theatre: [
+    {
+      year: '2025',
+      title: 'What The Startup',
+      role: 'Orlando',
+      studio: 'Shakespeare Reloaded / Art Space in Exile Berlin',
+      director: 'Meg Zrini',
+      type: 'Theatre',
+    },
+    {
+      year: '2022',
+      title: 'Where The Cross Is Made',
+      role: 'Nat Bartlett',
+      studio: 'The Marilyn Monroe Theatre, Los Angeles',
+      director: 'Remington Moses',
+      type: 'Theatre',
+    },
+    {
+      year: '2021',
+      title: 'Fiddler on the Roof (Anatevka)',
+      role: 'Lazar Wolf',
+      studio: 'Sharoun Theater, Wolfsburg',
+      director: 'Eyal Lerner',
+      type: 'Theatre',
+    },
+  ],
+  audio: [
+    {
+      year: '2024',
+      title: 'Turning Point: The Bomb and the Cold War',
+      role: 'Featured Voice',
+      studio: 'Netflix',
+      director: '—',
+      type: 'Dubbing',
+    },
+  ],
+}
+
+const tabs = ['film', 'television', 'theatre', 'audio']
+
+export default function Credits() {
+  const ref = useRef(null)
+  const inView = useInView(ref, { once: true, margin: '-80px' })
+  const [activeTab, setActiveTab] = useState('film')
+
+  return (
+    <section id="credits" ref={ref} className="section-padding" style={{
+      padding: '8rem 8%',
+      background: '#0d0d0d',
+      position: 'relative',
+    }}>
+      <div style={{
+        position: 'absolute', top: 0, left: '8%', right: '8%',
+        height: '1px',
+        background: 'linear-gradient(90deg, transparent, rgba(201,168,76,0.3), transparent)',
+      }} />
+
+      <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+        {/* Header */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={inView ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.7 }}
+          style={{ marginBottom: '3rem' }}
+        >
+          <div style={{
+            fontFamily: 'Inter, sans-serif',
+            fontSize: '0.7rem',
+            letterSpacing: '0.4em',
+            textTransform: 'uppercase',
+            color: '#c9a84c',
+            marginBottom: '1rem',
+          }}>
+            Filmography
+          </div>
+          <h2 style={{
+            fontFamily: 'Cormorant Garamond, serif',
+            fontSize: 'clamp(2rem, 6vw, 3.5rem)',
+            fontWeight: 300,
+            color: '#f5f0eb',
+            lineHeight: 1.15,
+          }}>
+            Selected <em style={{ color: '#c9a84c' }}>Credits</em>
+          </h2>
+        </motion.div>
+
+        {/* Tabs — scrollable on mobile */}
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={inView ? { opacity: 1 } : {}}
+          transition={{ duration: 0.6, delay: 0.2 }}
+          style={{
+            display: 'flex',
+            gap: '0',
+            marginBottom: '2rem',
+            borderBottom: '1px solid rgba(201,168,76,0.2)',
+            overflowX: 'auto',
+            WebkitOverflowScrolling: 'touch',
+            scrollbarWidth: 'none',
+            msOverflowStyle: 'none',
+          }}
+        >
+          {tabs.map((tab) => (
+            <button
+              key={tab}
+              onClick={() => setActiveTab(tab)}
+              style={{
+                background: 'none',
+                border: 'none',
+                borderBottom: activeTab === tab ? '2px solid #c9a84c' : '2px solid transparent',
+                cursor: 'pointer',
+                fontFamily: 'Inter, sans-serif',
+                fontSize: '0.7rem',
+                fontWeight: 400,
+                letterSpacing: '0.2em',
+                textTransform: 'uppercase',
+                color: activeTab === tab ? '#c9a84c' : '#8a8a8a',
+                padding: '0.8rem 1.2rem',
+                marginBottom: '-1px',
+                transition: 'all 0.3s',
+                whiteSpace: 'nowrap',
+                flexShrink: 0,
+              }}
+            >
+              {tab}
+            </button>
+          ))}
+        </motion.div>
+
+        {/* Credits list */}
+        <div>
+          {credits[activeTab].map((credit, i) => (
+            <motion.div
+              key={credit.title}
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.4, delay: i * 0.07 }}
+              className="credit-row"
+              whileHover={{ x: 4 }}
+            >
+              {/* Year */}
+              <div style={{
+                fontFamily: 'Cormorant Garamond, serif',
+                fontSize: 'clamp(1.3rem, 4vw, 1.8rem)',
+                fontWeight: 300,
+                color: credit.highlight ? '#c9a84c' : '#3a3a3a',
+                flexShrink: 0,
+              }}>
+                {credit.year}
+              </div>
+
+              {/* Title + meta */}
+              <div style={{ minWidth: 0 }}>
+                <div style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '0.6rem',
+                  marginBottom: '0.3rem',
+                  flexWrap: 'wrap',
+                }}>
+                  <span style={{
+                    fontFamily: 'Cormorant Garamond, serif',
+                    fontSize: 'clamp(1rem, 3.5vw, 1.3rem)',
+                    fontWeight: 400,
+                    color: '#f5f0eb',
+                    wordBreak: 'break-word',
+                  }}>
+                    {credit.title}
+                  </span>
+                  {credit.highlight && (
+                    <span style={{
+                      fontFamily: 'Inter, sans-serif',
+                      fontSize: '0.58rem',
+                      letterSpacing: '0.2em',
+                      textTransform: 'uppercase',
+                      color: '#0a0a0a',
+                      background: '#c9a84c',
+                      padding: '0.15rem 0.6rem',
+                      fontWeight: 500,
+                      flexShrink: 0,
+                    }}>
+                      Featured
+                    </span>
+                  )}
+                </div>
+                <div style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: 'clamp(0.68rem, 2vw, 0.78rem)',
+                  color: '#8a8a8a',
+                  wordBreak: 'break-word',
+                }}>
+                  as <em>{credit.role}</em> · dir. {credit.director} · {credit.studio}
+                </div>
+                {/* Show type on mobile since we hide the column */}
+                <div style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.6rem',
+                  letterSpacing: '0.15em',
+                  textTransform: 'uppercase',
+                  color: '#3a3a3a',
+                  marginTop: '0.3rem',
+                  display: 'none',
+                }}
+                  className="credit-type-mobile"
+                >
+                  {credit.type}
+                </div>
+              </div>
+
+              {/* Type label — hidden on mobile via CSS */}
+              <div className="credit-type-label">
+                {credit.type}
+              </div>
+            </motion.div>
+          ))}
+        </div>
+      </div>
+
+      <style>{`
+        @media (max-width: 768px) {
+          .credit-type-mobile { display: block !important; }
+        }
+      `}</style>
+    </section>
+  )
+}

@@ -1,1 +1,220 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmIH0gZnJvbSAncmVhY3QnCmltcG9ydCB7IG1vdGlvbiwgdXNlSW5WaWV3IH0gZnJvbSAnZnJhbWVyLW1vdGlvbicKaW1wb3J0IHsgTWFpbCwgRXh0ZXJuYWxMaW5rIH0gZnJvbSAnbHVjaWRlLXJlYWN0JwoKY29uc3QgSW5zdGFncmFtSWNvbiA9ICh7IHNpemUgPSAxOCwgY29sb3IgPSAnY3VycmVudENvbG9yJyB9KSA9PiAoCiAgPHN2ZyB3aWR0aD17c2l6ZX0gaGVpZ2h0PXtzaXplfSB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT17Y29sb3J9IHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgcng9IjUiIHJ5PSI1Ii8+CiAgICA8cGF0aCBkPSJNMTYgMTEuMzdBNCA0IDAgMSAxIDEyLjYzIDggNCA0IDAgMCAxIDE2IDExLjM3eiIvPgogICAgPGxpbmUgeDE9IjE3LjUiIHkxPSI2LjUiIHgyPSIxNy41MSIgeTI9IjYuNSIvPgogIDwvc3ZnPgopCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBDb250YWN0KCkgewogIGNvbnN0IHJlZiA9IHVzZVJlZihudWxsKQogIGNvbnN0IGluVmlldyA9IHVzZUluVmlldyhyZWYsIHsgb25jZTogdHJ1ZSwgbWFyZ2luOiAnLTgwcHgnIH0pCgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBpZD0iY29udGFjdCIgcmVmPXtyZWZ9IGNsYXNzTmFtZT0ic2VjdGlvbi1wYWRkaW5nIiBzdHlsZT17ewogICAgICBwYWRkaW5nOiAnOHJlbSA4JScsCiAgICAgIGJhY2tncm91bmQ6ICcjMGQwZDBkJywKICAgICAgcG9zaXRpb246ICdyZWxhdGl2ZScsCiAgICB9fT4KICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLCB0b3A6IDAsIGxlZnQ6ICc4JScsIHJpZ2h0OiAnOCUnLAogICAgICAgIGhlaWdodDogJzFweCcsCiAgICAgICAgYmFja2dyb3VuZDogJ2xpbmVhci1ncmFkaWVudCg5MGRlZywgdHJhbnNwYXJlbnQsIHJnYmEoMjAxLDE2OCw3NiwwLjMpLCB0cmFuc3BhcmVudCknLAogICAgICB9fSAvPgoKICAgICAgPGRpdiBzdHlsZT17eyBtYXhXaWR0aDogJzEyMDBweCcsIG1hcmdpbjogJzAgYXV0bycgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhY3QtZ3JpZCI+CiAgICAgICAgICB7LyogTGVmdCAqL30KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17aW5WaWV3ID8geyBvcGFjaXR5OiAxLCB5OiAwIH0gOiB7fX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC43IH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgIGZvbnRTaXplOiAnMC43cmVtJywKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC40ZW0nLAogICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMXJlbScsCiAgICAgICAgICAgIH19PgogICAgICAgICAgICAgIEdldCBpbiBUb3VjaAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGgyIHN0eWxlPXt7CiAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0Nvcm1vcmFudCBHYXJhbW9uZCwgc2VyaWYnLAogICAgICAgICAgICAgIGZvbnRTaXplOiAnY2xhbXAoMnJlbSwgNnZ3LCAzLjVyZW0pJywKICAgICAgICAgICAgICBmb250V2VpZ2h0OiAzMDAsCiAgICAgICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjE1LAogICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzJyZW0nLAogICAgICAgICAgICB9fT4KICAgICAgICAgICAgICBDb2xsYWJvcmF0ZSAmPGJyIC8+CiAgICAgICAgICAgICAgPGVtIHN0eWxlPXt7IGNvbG9yOiAnI2M5YTg0YycgfX0+Q29ubmVjdC48L2VtPgogICAgICAgICAgICA8L2gyPgoKICAgICAgICAgICAgPHAgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgIGZvbnRTaXplOiAnMC45MnJlbScsCiAgICAgICAgICAgICAgbGluZUhlaWdodDogMS45LAogICAgICAgICAgICAgIGNvbG9yOiAnIzhhOGE4YScsCiAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMi41cmVtJywKICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgRm9yIGNhc3RpbmcgaW5xdWlyaWVzLCBjb2xsYWJvcmF0aW9uIHByb3Bvc2Fscywgb3IgcmVwcmVzZW50YXRpb24gbWF0dGVycywKICAgICAgICAgICAgICBwbGVhc2UgcmVhY2ggb3V0IHRocm91Z2ggQ3Jhd2ZvcmQgVGFsZW50cyBvciBjb25uZWN0IGRpcmVjdGx5LgogICAgICAgICAgICA8L3A+CgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgZmxleERpcmVjdGlvbjogJ2NvbHVtbicsIGdhcDogJzFyZW0nIH19PgogICAgICAgICAgICAgIHtbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIGhyZWY6ICdtYWlsdG86Y2FwcmljZUBjcmF3Zm9yZHRhbGVudHMuY29tJywKICAgICAgICAgICAgICAgICAgaWNvbjogPE1haWwgc2l6ZT17MTh9IGNvbG9yPSIjYzlhODRjIiAvPiwKICAgICAgICAgICAgICAgICAgbGFiZWw6ICdBZ2VudCDigJQgQ3Jhd2ZvcmQgVGFsZW50cycsCiAgICAgICAgICAgICAgICAgIHZhbHVlOiAnY2FwcmljZUBjcmF3Zm9yZHRhbGVudHMuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIGhyZWY6ICdodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL21heC5zbWxfLycsCiAgICAgICAgICAgICAgICAgIGljb246IDxJbnN0YWdyYW1JY29uIHNpemU9ezE4fSBjb2xvcj0iI2M5YTg0YyIgLz4sCiAgICAgICAgICAgICAgICAgIGxhYmVsOiAnSW5zdGFncmFtJywKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdAbWF4LnNtbF8nLAogICAgICAgICAgICAgICAgICBleHRlcm5hbDogdHJ1ZSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIGhyZWY6ICdodHRwczovL3d3dy5pbWRiLmNvbS9uYW1lL25tMTUwMDUxMzIvJywKICAgICAgICAgICAgICAgICAgaWNvbjogPEV4dGVybmFsTGluayBzaXplPXsxOH0gY29sb3I9IiNjOWE4NGMiIC8+LAogICAgICAgICAgICAgICAgICBsYWJlbDogJ0lNRGInLAogICAgICAgICAgICAgICAgICB2YWx1ZTogJ01heGltaWxpYW4gU2NodWx6ZSDigJQgbm0xNTAwNTEzMicsCiAgICAgICAgICAgICAgICAgIGV4dGVybmFsOiB0cnVlLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICBdLm1hcCgoeyBocmVmLCBpY29uLCBsYWJlbCwgdmFsdWUsIGV4dGVybmFsIH0pID0+ICgKICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgIGtleT17bGFiZWx9CiAgICAgICAgICAgICAgICAgIGhyZWY9e2hyZWZ9CiAgICAgICAgICAgICAgICAgIHRhcmdldD17ZXh0ZXJuYWwgPyAnX2JsYW5rJyA6IHVuZGVmaW5lZH0KICAgICAgICAgICAgICAgICAgcmVsPXtleHRlcm5hbCA/ICdub3JlZmVycmVyJyA6IHVuZGVmaW5lZH0KICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgZ2FwOiAnMXJlbScsCiAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzEuMnJlbSAxLjVyZW0nLAogICAgICAgICAgICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCByZ2JhKDIwMSwxNjgsNzYsMC4yKScsCiAgICAgICAgICAgICAgICAgICAgdGV4dERlY29yYXRpb246ICdub25lJywKICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uOiAnYWxsIDAuM3MnLAogICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI2Y1ZjBlYicsCiAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgIG9uTW91c2VFbnRlcj17ZSA9PiBlLmN1cnJlbnRUYXJnZXQuc3R5bGUuYm9yZGVyQ29sb3IgPSAnI2M5YTg0Yyd9CiAgICAgICAgICAgICAgICAgIG9uTW91c2VMZWF2ZT17ZSA9PiBlLmN1cnJlbnRUYXJnZXQuc3R5bGUuYm9yZGVyQ29sb3IgPSAncmdiYSgyMDEsMTY4LDc2LDAuMiknfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZsZXhTaHJpbms6IDAgfX0+e2ljb259PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWluV2lkdGg6IDAgfX0+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnMC42NXJlbScsCiAgICAgICAgICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC4yZW0nLAogICAgICAgICAgICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJyM4YThhOGEnLAogICAgICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMC4ycmVtJywKICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgIHtsYWJlbH0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICdjbGFtcCgwLjcycmVtLCAyLjV2dywgMC44NXJlbSknLAogICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgICAgICAgICAgICAgIHdvcmRCcmVhazogJ2JyZWFrLWFsbCcsCiAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICB7dmFsdWV9CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgICB7LyogUmlnaHQ6IHF1b3RlICsgcGhvdG8gKi99CiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICAgIGFuaW1hdGU9e2luVmlldyA/IHsgb3BhY2l0eTogMSwgeTogMCB9IDoge319CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNywgZGVsYXk6IDAuMiB9fQogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjAxLDE2OCw3NiwwLjE1KScsCiAgICAgICAgICAgICAgcGFkZGluZzogJzIuNXJlbScsCiAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMnJlbScsCiAgICAgICAgICAgICAgcG9zaXRpb246ICdyZWxhdGl2ZScsCiAgICAgICAgICAgIH19PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLCB0b3A6ICctMC41cHgnLCBsZWZ0OiAnMnJlbScsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAnIzBkMGQwZCcsCiAgICAgICAgICAgICAgICBwYWRkaW5nOiAnMCAwLjVyZW0nLAogICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0Nvcm1vcmFudCBHYXJhbW9uZCwgc2VyaWYnLAogICAgICAgICAgICAgICAgZm9udFNpemU6ICcycmVtJywKICAgICAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgICAgICBsaW5lSGVpZ2h0OiAxLAogICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgIgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxwIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnQ29ybW9yYW50IEdhcmFtb25kLCBzZXJpZicsCiAgICAgICAgICAgICAgICBmb250U2l6ZTogJ2NsYW1wKDEuMDVyZW0sIDN2dywgMS4zcmVtKScsCiAgICAgICAgICAgICAgICBmb250U3R5bGU6ICdpdGFsaWMnLAogICAgICAgICAgICAgICAgZm9udFdlaWdodDogMzAwLAogICAgICAgICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuNywKICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzEuNXJlbScsCiAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICBWaWxsYWlucyBhcmUgbm90IHRvbyBmYXIgZnJvbSBoZXJvZXMg4oCUIHNvbWV3aGVyZSBhbG9uZyB0aGUgcGF0aCwKICAgICAgICAgICAgICAgIHRoZXkganVzdCB0b29rIGEgd3JvbmcgdHVybi4gWW91IGhhdmUgdG8gZmluZCB3aGVyZSB0aGF0IGhhcHBlbmVkLAogICAgICAgICAgICAgICAgbWFrZSB0aGVtIGh1bWFuLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjdyZW0nLAogICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMmVtJywKICAgICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgICAgY29sb3I6ICcjYzlhODRjJywKICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgIOKAlCBNYXhpbWlsaWFuIFNjaHVsemUKICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICB7LyogU2Vjb25kIHBob3RvICovfQogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgaGVpZ2h0OiAnMjgwcHgnLAogICAgICAgICAgICAgIGJhY2tncm91bmQ6ICcjMWExYTFhJywKICAgICAgICAgICAgICBib3JkZXI6ICcxcHggc29saWQgcmdiYSgyMDEsMTY4LDc2LDAuMSknLAogICAgICAgICAgICAgIG92ZXJmbG93OiAnaGlkZGVuJywKICAgICAgICAgICAgICBwb3NpdGlvbjogJ3JlbGF0aXZlJywKICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgc3JjPSJodHRwczovL2ltZ3Byb3h5LmZpbG1tYWtlcnMuZXUvUks2WkplNUJYNGhLeW1Sb2tvQTdLQThkaHRYTUZrUWZkNHQzc1FFUlZMYy9ydDpmaXQvdzozODQwL2g6MjE2MC9jek02THk5bWFXeHRiV0ZyWlhKekxXVjFMWGRsYzNRdE1TOXdjbTlrZFdOMGFXOXVMelZqWkRCbFl6ZzBMVGt6T1dNdE5HUm1NUzA0TnpRM0xUUmxaak5oT1RaaVpXRXlZeTVxY0dWbi5qcGciCiAgICAgICAgICAgICAgICBhbHQ9Ik1heGltaWxpYW4gU2NodWx6ZSIKICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsIGhlaWdodDogJzEwMCUnLAogICAgICAgICAgICAgICAgICBvYmplY3RGaXQ6ICdjb3ZlcicsCiAgICAgICAgICAgICAgICAgIG9iamVjdFBvc2l0aW9uOiAnY2VudGVyIHRvcCcsCiAgICAgICAgICAgICAgICAgIGZpbHRlcjogJ2NvbnRyYXN0KDEuMDUpIGJyaWdodG5lc3MoMC44NSknLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgIG9uRXJyb3I9e2UgPT4geyBlLnRhcmdldC5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnIH19CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywgaW5zZXQ6IDAsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAnbGluZWFyLWdyYWRpZW50KDE4MGRlZywgdHJhbnNwYXJlbnQgNjAlLCByZ2JhKDEzLDEzLDEzLDAuNykgMTAwJSknLAogICAgICAgICAgICAgIH19IC8+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsIGJvdHRvbTogJzAuOHJlbScsIHJpZ2h0OiAnMC44cmVtJywKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnMC42cmVtJywgY29sb3I6ICdyZ2JhKDIwMSwxNjgsNzYsMC40KScsCiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgwqkgRG9taW5pYyBQYXNjYWwKICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICkKfQo="}
+import { useRef } from 'react'
+import { motion, useInView } from 'framer-motion'
+import { Mail, ExternalLink } from 'lucide-react'
+
+const InstagramIcon = ({ size = 18, color = 'currentColor' }) => (
+  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+    <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+  </svg>
+)
+
+export default function Contact() {
+  const ref = useRef(null)
+  const inView = useInView(ref, { once: true, margin: '-80px' })
+
+  return (
+    <section id="contact" ref={ref} className="section-padding" style={{
+      padding: '8rem 8%',
+      background: '#0d0d0d',
+      position: 'relative',
+    }}>
+      <div style={{
+        position: 'absolute', top: 0, left: '8%', right: '8%',
+        height: '1px',
+        background: 'linear-gradient(90deg, transparent, rgba(201,168,76,0.3), transparent)',
+      }} />
+
+      <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+        <div className="contact-grid">
+          {/* Left */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={inView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.7 }}
+          >
+            <div style={{
+              fontFamily: 'Inter, sans-serif',
+              fontSize: '0.7rem',
+              letterSpacing: '0.4em',
+              textTransform: 'uppercase',
+              color: '#c9a84c',
+              marginBottom: '1rem',
+            }}>
+              Get in Touch
+            </div>
+            <h2 style={{
+              fontFamily: 'Cormorant Garamond, serif',
+              fontSize: 'clamp(2rem, 6vw, 3.5rem)',
+              fontWeight: 300,
+              color: '#f5f0eb',
+              lineHeight: 1.15,
+              marginBottom: '2rem',
+            }}>
+              Collaborate &<br />
+              <em style={{ color: '#c9a84c' }}>Connect.</em>
+            </h2>
+
+            <p style={{
+              fontFamily: 'Inter, sans-serif',
+              fontSize: '0.92rem',
+              lineHeight: 1.9,
+              color: '#8a8a8a',
+              marginBottom: '2.5rem',
+            }}>
+              For casting inquiries, collaboration proposals, or representation matters,
+              please reach out through Crawford Talents or connect directly.
+            </p>
+
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+              {[
+                {
+                  href: 'mailto:caprice@crawfordtalents.com',
+                  icon: <Mail size={18} color="#c9a84c" />,
+                  label: 'Agent — Crawford Talents',
+                  value: 'caprice@crawfordtalents.com',
+                },
+                {
+                  href: 'https://www.instagram.com/max.sml_/',
+                  icon: <InstagramIcon size={18} color="#c9a84c" />,
+                  label: 'Instagram',
+                  value: '@max.sml_',
+                  external: true,
+                },
+                {
+                  href: 'https://www.imdb.com/name/nm15005132/',
+                  icon: <ExternalLink size={18} color="#c9a84c" />,
+                  label: 'IMDb',
+                  value: 'Maximilian Schulze — nm15005132',
+                  external: true,
+                },
+              ].map(({ href, icon, label, value, external }) => (
+                <a
+                  key={label}
+                  href={href}
+                  target={external ? '_blank' : undefined}
+                  rel={external ? 'noreferrer' : undefined}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '1rem',
+                    padding: '1.2rem 1.5rem',
+                    border: '1px solid rgba(201,168,76,0.2)',
+                    textDecoration: 'none',
+                    transition: 'all 0.3s',
+                    color: '#f5f0eb',
+                  }}
+                  onMouseEnter={e => e.currentTarget.style.borderColor = '#c9a84c'}
+                  onMouseLeave={e => e.currentTarget.style.borderColor = 'rgba(201,168,76,0.2)'}
+                >
+                  <div style={{ flexShrink: 0 }}>{icon}</div>
+                  <div style={{ minWidth: 0 }}>
+                    <div style={{
+                      fontFamily: 'Inter, sans-serif',
+                      fontSize: '0.65rem',
+                      letterSpacing: '0.2em',
+                      textTransform: 'uppercase',
+                      color: '#8a8a8a',
+                      marginBottom: '0.2rem',
+                    }}>
+                      {label}
+                    </div>
+                    <div style={{
+                      fontFamily: 'Inter, sans-serif',
+                      fontSize: 'clamp(0.72rem, 2.5vw, 0.85rem)',
+                      color: '#f5f0eb',
+                      wordBreak: 'break-all',
+                    }}>
+                      {value}
+                    </div>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </motion.div>
+
+          {/* Right: quote + photo */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={inView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.7, delay: 0.2 }}
+          >
+            <div style={{
+              border: '1px solid rgba(201,168,76,0.15)',
+              padding: '2.5rem',
+              marginBottom: '2rem',
+              position: 'relative',
+            }}>
+              <div style={{
+                position: 'absolute', top: '-0.5px', left: '2rem',
+                background: '#0d0d0d',
+                padding: '0 0.5rem',
+                fontFamily: 'Cormorant Garamond, serif',
+                fontSize: '2rem',
+                color: '#c9a84c',
+                lineHeight: 1,
+              }}>
+                "
+              </div>
+              <p style={{
+                fontFamily: 'Cormorant Garamond, serif',
+                fontSize: 'clamp(1.05rem, 3vw, 1.3rem)',
+                fontStyle: 'italic',
+                fontWeight: 300,
+                color: '#f5f0eb',
+                lineHeight: 1.7,
+                marginBottom: '1.5rem',
+              }}>
+                Villains are not too far from heroes — somewhere along the path,
+                they just took a wrong turn. You have to find where that happened,
+                make them human.
+              </p>
+              <div style={{
+                fontFamily: 'Inter, sans-serif',
+                fontSize: '0.7rem',
+                letterSpacing: '0.2em',
+                textTransform: 'uppercase',
+                color: '#c9a84c',
+              }}>
+                — Maximilian Schulze
+              </div>
+            </div>
+
+            {/* Second photo */}
+            <div style={{
+              height: '280px',
+              background: '#1a1a1a',
+              border: '1px solid rgba(201,168,76,0.1)',
+              overflow: 'hidden',
+              position: 'relative',
+            }}>
+              <img
+                src="https://imgproxy.filmmakers.eu/RK6ZJe5BX4hKymRokoA7KA8dhtXMFkQfd4t3sQERVLc/rt:fit/w:3840/h:2160/czM6Ly9maWxtbWFrZXJzLWV1LXdlc3QtMS9wcm9kdWN0aW9uLzVjZDBlYzg0LTkzOWMtNGRmMS04NzQ3LTRlZjNhOTZiZWEyYy5qcGVn.jpg"
+                alt="Maximilian Schulze"
+                style={{
+                  width: '100%', height: '100%',
+                  objectFit: 'cover',
+                  objectPosition: 'center top',
+                  filter: 'contrast(1.05) brightness(0.85)',
+                }}
+                onError={e => { e.target.style.display = 'none' }}
+              />
+              <div style={{
+                position: 'absolute', inset: 0,
+                background: 'linear-gradient(180deg, transparent 60%, rgba(13,13,13,0.7) 100%)',
+              }} />
+              <div style={{
+                position: 'absolute', bottom: '0.8rem', right: '0.8rem',
+                fontSize: '0.6rem', color: 'rgba(201,168,76,0.4)',
+                fontFamily: 'Inter, sans-serif',
+              }}>
+                © Dominic Pascal
+              </div>
+            </div>
+          </motion.div>
+        </div>
+      </div>
+    </section>
+  )
+}

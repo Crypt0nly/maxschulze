@@ -1,1 +1,29 @@
-{"data":"aW1wb3J0IGpzIGZyb20gJ0Blc2xpbnQvanMnCmltcG9ydCBnbG9iYWxzIGZyb20gJ2dsb2JhbHMnCmltcG9ydCByZWFjdEhvb2tzIGZyb20gJ2VzbGludC1wbHVnaW4tcmVhY3QtaG9va3MnCmltcG9ydCByZWFjdFJlZnJlc2ggZnJvbSAnZXNsaW50LXBsdWdpbi1yZWFjdC1yZWZyZXNoJwppbXBvcnQgeyBkZWZpbmVDb25maWcsIGdsb2JhbElnbm9yZXMgfSBmcm9tICdlc2xpbnQvY29uZmlnJwoKZXhwb3J0IGRlZmF1bHQgZGVmaW5lQ29uZmlnKFsKICBnbG9iYWxJZ25vcmVzKFsnZGlzdCddKSwKICB7CiAgICBmaWxlczogWycqKi8qLntqcyxqc3h9J10sCiAgICBleHRlbmRzOiBbCiAgICAgIGpzLmNvbmZpZ3MucmVjb21tZW5kZWQsCiAgICAgIHJlYWN0SG9va3MuY29uZmlncy5mbGF0LnJlY29tbWVuZGVkLAogICAgICByZWFjdFJlZnJlc2guY29uZmlncy52aXRlLAogICAgXSwKICAgIGxhbmd1YWdlT3B0aW9uczogewogICAgICBlY21hVmVyc2lvbjogMjAyMCwKICAgICAgZ2xvYmFsczogZ2xvYmFscy5icm93c2VyLAogICAgICBwYXJzZXJPcHRpb25zOiB7CiAgICAgICAgZWNtYVZlcnNpb246ICdsYXRlc3QnLAogICAgICAgIGVjbWFGZWF0dXJlczogeyBqc3g6IHRydWUgfSwKICAgICAgICBzb3VyY2VUeXBlOiAnbW9kdWxlJywKICAgICAgfSwKICAgIH0sCiAgICBydWxlczogewogICAgICAnbm8tdW51c2VkLXZhcnMnOiBbJ2Vycm9yJywgeyB2YXJzSWdub3JlUGF0dGVybjogJ15bQS1aX10nIH1dLAogICAgfSwKICB9LApdKQo="}
+import js from '@eslint/js'
+import globals from 'globals'
+import reactHooks from 'eslint-plugin-react-hooks'
+import reactRefresh from 'eslint-plugin-react-refresh'
+import { defineConfig, globalIgnores } from 'eslint/config'
+
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{js,jsx}'],
+    extends: [
+      js.configs.recommended,
+      reactHooks.configs.flat.recommended,
+      reactRefresh.configs.vite,
+    ],
+    languageOptions: {
+      ecmaVersion: 2020,
+      globals: globals.browser,
+      parserOptions: {
+        ecmaVersion: 'latest',
+        ecmaFeatures: { jsx: true },
+        sourceType: 'module',
+      },
+    },
+    rules: {
+      'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
+    },
+  },
+])

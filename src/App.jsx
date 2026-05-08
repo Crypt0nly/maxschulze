@@ -1,1 +1,32 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JwppbXBvcnQgTmF2YmFyIGZyb20gJy4vY29tcG9uZW50cy9OYXZiYXInCmltcG9ydCBIZXJvIGZyb20gJy4vY29tcG9uZW50cy9IZXJvJwppbXBvcnQgQWJvdXQgZnJvbSAnLi9jb21wb25lbnRzL0Fib3V0JwppbXBvcnQgQ3JlZGl0cyBmcm9tICcuL2NvbXBvbmVudHMvQ3JlZGl0cycKaW1wb3J0IFNraWxscyBmcm9tICcuL2NvbXBvbmVudHMvU2tpbGxzJwppbXBvcnQgQ29udGFjdCBmcm9tICcuL2NvbXBvbmVudHMvQ29udGFjdCcKaW1wb3J0IEZvb3RlciBmcm9tICcuL2NvbXBvbmVudHMvRm9vdGVyJwppbXBvcnQgTG9hZGVyIGZyb20gJy4vY29tcG9uZW50cy9Mb2FkZXInCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBBcHAoKSB7CiAgY29uc3QgW2xvYWRpbmcsIHNldExvYWRpbmddID0gdXNlU3RhdGUodHJ1ZSkKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiBzZXRMb2FkaW5nKGZhbHNlKSwgMjIwMCkKICAgIHJldHVybiAoKSA9PiBjbGVhclRpbWVvdXQodGltZXIpCiAgfSwgW10pCgogIGlmIChsb2FkaW5nKSByZXR1cm4gPExvYWRlciAvPgoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAnIzBhMGEwYScsIG1pbkhlaWdodDogJzEwMHZoJyB9fT4KICAgICAgPE5hdmJhciAvPgogICAgICA8SGVybyAvPgogICAgICA8QWJvdXQgLz4KICAgICAgPENyZWRpdHMgLz4KICAgICAgPFNraWxscyAvPgogICAgICA8Q29udGFjdCAvPgogICAgICA8Rm9vdGVyIC8+CiAgICA8L2Rpdj4KICApCn0K"}
+import { useState, useEffect } from 'react'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import About from './components/About'
+import Credits from './components/Credits'
+import Skills from './components/Skills'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
+import Loader from './components/Loader'
+
+export default function App() {
+  const [loading, setLoading] = useState(true)
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 2200)
+    return () => clearTimeout(timer)
+  }, [])
+
+  if (loading) return <Loader />
+
+  return (
+    <div style={{ background: '#0a0a0a', minHeight: '100vh' }}>
+      <Navbar />
+      <Hero />
+      <About />
+      <Credits />
+      <Skills />
+      <Contact />
+      <Footer />
+    </div>
+  )
+}

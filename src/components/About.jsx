@@ -1,1 +1,208 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmIH0gZnJvbSAncmVhY3QnCmltcG9ydCB7IG1vdGlvbiwgdXNlSW5WaWV3IH0gZnJvbSAnZnJhbWVyLW1vdGlvbicKCmNvbnN0IHN0YXRzID0gWwogIHsgdmFsdWU6ICcyNCcsIGxhYmVsOiAnWWVhcnMgT2xkJyB9LAogIHsgdmFsdWU6ICcxODcnLCBsYWJlbDogJ2NtIEhlaWdodCcgfSwKICB7IHZhbHVlOiAnMycsIGxhYmVsOiAnTGFuZ3VhZ2VzJyB9LAogIHsgdmFsdWU6ICcxMCsnLCBsYWJlbDogJ1NjcmVlbiBDcmVkaXRzJyB9LApdCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBBYm91dCgpIHsKICBjb25zdCByZWYgPSB1c2VSZWYobnVsbCkKICBjb25zdCBpblZpZXcgPSB1c2VJblZpZXcocmVmLCB7IG9uY2U6IHRydWUsIG1hcmdpbjogJy04MHB4JyB9KQoKICByZXR1cm4gKAogICAgPHNlY3Rpb24gaWQ9ImFib3V0IiByZWY9e3JlZn0gY2xhc3NOYW1lPSJzZWN0aW9uLXBhZGRpbmciIHN0eWxlPXt7CiAgICAgIHBhZGRpbmc6ICc4cmVtIDglJywKICAgICAgYmFja2dyb3VuZDogJyMwYTBhMGEnLAogICAgICBwb3NpdGlvbjogJ3JlbGF0aXZlJywKICAgIH19PgogICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsIHRvcDogMCwgbGVmdDogJzglJywgcmlnaHQ6ICc4JScsCiAgICAgICAgaGVpZ2h0OiAnMXB4JywKICAgICAgICBiYWNrZ3JvdW5kOiAnbGluZWFyLWdyYWRpZW50KDkwZGVnLCB0cmFuc3BhcmVudCwgcmdiYSgyMDEsMTY4LDc2LDAuMyksIHRyYW5zcGFyZW50KScsCiAgICAgIH19IC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJvdXQtZ3JpZCI+CiAgICAgICAgey8qIExlZnQ6IGJpbyAqL30KICAgICAgICA8ZGl2PgogICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICBhbmltYXRlPXtpblZpZXcgPyB7IG9wYWNpdHk6IDEsIHk6IDAgfSA6IHt9fQogICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjcgfX0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgIGZvbnRTaXplOiAnMC43cmVtJywKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC40ZW0nLAogICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMS41cmVtJywKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgVGhlIEFjdG9yCiAgICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgICAgPG1vdGlvbi5oMgogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICAgIGFuaW1hdGU9e2luVmlldyA/IHsgb3BhY2l0eTogMSwgeTogMCB9IDoge319CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNywgZGVsYXk6IDAuMSB9fQogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdDb3Jtb3JhbnQgR2FyYW1vbmQsIHNlcmlmJywKICAgICAgICAgICAgICBmb250U2l6ZTogJ2NsYW1wKDJyZW0sIDZ2dywgMy41cmVtKScsCiAgICAgICAgICAgICAgZm9udFdlaWdodDogMzAwLAogICAgICAgICAgICAgIGNvbG9yOiAnI2Y1ZjBlYicsCiAgICAgICAgICAgICAgbGluZUhlaWdodDogMS4xNSwKICAgICAgICAgICAgICBtYXJnaW5Cb3R0b206ICcycmVtJywKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgQm9ybiBiZXR3ZWVuIHdvcmxkcyw8YnIgLz4KICAgICAgICAgICAgPGVtIHN0eWxlPXt7IGNvbG9yOiAnI2M5YTg0YycgfX0+ZGVmaW5lZCBieSBjcmFmdC48L2VtPgogICAgICAgICAgPC9tb3Rpb24uaDI+CgogICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgaW5pdGlhbD17eyBzY2FsZVg6IDAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17aW5WaWV3ID8geyBzY2FsZVg6IDEgfSA6IHt9fQogICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYsIGRlbGF5OiAwLjMgfX0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICB3aWR0aDogJzYwcHgnLCBoZWlnaHQ6ICcxcHgnLAogICAgICAgICAgICAgIGJhY2tncm91bmQ6ICcjYzlhODRjJywKICAgICAgICAgICAgICBtYXJnaW5Cb3R0b206ICcycmVtJywKICAgICAgICAgICAgICB0cmFuc2Zvcm1PcmlnaW46ICdsZWZ0JywKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+CgogICAgICAgICAge1sKICAgICAgICAgICAgYEJvcm4gaW4gQnJhdGlzbGF2YSBpbiAyMDAxLCBNYXhpbWlsaWFuIFNjaHVsemUgY2FycmllcyB0aGUgcmFyZSBkdWFsIGlkZW50aXR5IG9mIGEgR2VybWFuLVNsb3ZhayBhY3RvciB3aG8gbW92ZXMgZmx1aWRseSBiZXR3ZWVuIEV1cm9wZWFuIHByZXN0aWdlIGFuZCBBbWVyaWNhbiBhbWJpdGlvbi4gUmFpc2VkIHdpdGggYSBtb3RoZXIgdG9uZ3VlIHRoYXQgc3BhbnMgdGhyZWUgbGFuZ3VhZ2VzIOKAlCBFbmdsaXNoLCBHZXJtYW4sIGFuZCBTbG92YWsg4oCUIGhpcyB2b2ljZSBpcyBhcyB2ZXJzYXRpbGUgYXMgaGlzIHJhbmdlLmAsCiAgICAgICAgICAgIGBIZSBob25lZCBoaXMgY3JhZnQgYXQgdGhlIGxlZ2VuZGFyeSBMZWUgU3RyYXNiZXJnIFRoZWF0cmUgJiBGaWxtIEluc3RpdHV0ZSBpbiBMb3MgQW5nZWxlcyAoMjAyMeKAkzIwMjMpLCBncmFkdWF0aW5nIHdpdGggYSBkZWVwIGNvbW1pdG1lbnQgdG8gZW1vdGlvbmFsIHRydXRoIGFuZCBjaGFyYWN0ZXIgY29tcGxleGl0eS4gSGlzIGJyZWFrdGhyb3VnaCBjYW1lIHN3aWZ0bHkg4oCUIGFuIEhCTyBjcmVkaXQgb24gTmF0aGFuIEZpZWxkZXIncyBhY2NsYWltZWQgc2VyaWVzIFRoZSBSZWhlYXJzYWwsIGZvbGxvd2VkIGJ5IHRoZSBoaXN0b3JpY2FsIGFjdGlvbiBmZWF0dXJlIDI0IEhvdXJzIHRvIEQtRGF5LmAsCiAgICAgICAgICAgIGBOb3cgYmFzZWQgYmV0d2VlbiBCZXJsaW4gYW5kIExvcyBBbmdlbGVzLCByZXByZXNlbnRlZCBieSBDcmF3Zm9yZCBUYWxlbnRzLCBNYXhpbWlsaWFuIGlzIGJ1aWxkaW5nIGEgYm9keSBvZiB3b3JrIHRoYXQgYnJpZGdlcyB0aGUgaW50aW1hY3kgb2YgRXVyb3BlYW4gc3Rvcnl0ZWxsaW5nIHdpdGggdGhlIHNjYWxlIG9mIEFtZXJpY2FuIHByb2R1Y3Rpb24uYCwKICAgICAgICAgIF0ubWFwKCh0ZXh0LCBpKSA9PiAoCiAgICAgICAgICAgIDxtb3Rpb24ucAogICAgICAgICAgICAgIGtleT17aX0KICAgICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICAgICAgYW5pbWF0ZT17aW5WaWV3ID8geyBvcGFjaXR5OiAxLCB5OiAwIH0gOiB7fX0KICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjcsIGRlbGF5OiAwLjM1ICsgaSAqIDAuMSB9fQogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjkycmVtJywKICAgICAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuOSwKICAgICAgICAgICAgICAgIGNvbG9yOiAnIzhhOGE4YScsCiAgICAgICAgICAgICAgICBtYXJnaW5Cb3R0b206ICcxLjJyZW0nLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7aSA9PT0gMSA/ICgKICAgICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICAgIEhlIGhvbmVkIGhpcyBjcmFmdCBhdCB0aGUgbGVnZW5kYXJ5IExlZSBTdHJhc2JlcmcgVGhlYXRyZSAmIEZpbG0gSW5zdGl0dXRlIGluCiAgICAgICAgICAgICAgICAgIExvcyBBbmdlbGVzICgyMDIx4oCTMjAyMyksIGdyYWR1YXRpbmcgd2l0aCBhIGRlZXAgY29tbWl0bWVudCB0byBlbW90aW9uYWwgdHJ1dGggYW5kCiAgICAgICAgICAgICAgICAgIGNoYXJhY3RlciBjb21wbGV4aXR5LiBIaXMgYnJlYWt0aHJvdWdoIGNhbWUgc3dpZnRseSDigJQgYW4gSEJPIGNyZWRpdCBvbiBOYXRoYW4gRmllbGRlcidzCiAgICAgICAgICAgICAgICAgIGFjY2xhaW1lZCBzZXJpZXMgPGVtIHN0eWxlPXt7IGNvbG9yOiAnI2M5YTg0YycgfX0+VGhlIFJlaGVhcnNhbDwvZW0+LCBmb2xsb3dlZCBieSB0aGUKICAgICAgICAgICAgICAgICAgaGlzdG9yaWNhbCBhY3Rpb24gZmVhdHVyZSA8ZW0gc3R5bGU9e3sgY29sb3I6ICcjYzlhODRjJyB9fT4yNCBIb3VycyB0byBELURheTwvZW0+LgogICAgICAgICAgICAgICAgPC8+CiAgICAgICAgICAgICAgKSA6IHRleHR9CiAgICAgICAgICAgIDwvbW90aW9uLnA+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIFJpZ2h0OiBzdGF0cyArIGRldGFpbHMgKi99CiAgICAgICAgPGRpdj4KICAgICAgICAgIHsvKiBTdGF0cyBncmlkICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN0YXRzLWdyaWQiPgogICAgICAgICAgICB7c3RhdHMubWFwKChzdGF0LCBpKSA9PiAoCiAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgIGtleT17c3RhdC5sYWJlbH0KICAgICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCB9fQogICAgICAgICAgICAgICAgYW5pbWF0ZT17aW5WaWV3ID8geyBvcGFjaXR5OiAxIH0gOiB7fX0KICAgICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNSwgZGVsYXk6IDAuNSArIGkgKiAwLjEgfX0KICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICcjMGEwYTBhJywKICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzJyZW0gMS41cmVtJywKICAgICAgICAgICAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnQ29ybW9yYW50IEdhcmFtb25kLCBzZXJpZicsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnY2xhbXAoMi41cmVtLCA1dncsIDMuNXJlbSknLAogICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiAzMDAsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEsCiAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuNXJlbScsCiAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAge3N0YXQudmFsdWV9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjY1cmVtJywKICAgICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMjVlbScsCiAgICAgICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgICAgICBjb2xvcjogJyM4YThhOGEnLAogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgIHtzdGF0LmxhYmVsfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBRdWljayBmYWN0cyAqL30KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17aW5WaWV3ID8geyBvcGFjaXR5OiAxLCB5OiAwIH0gOiB7fX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC43LCBkZWxheTogMC43IH19CiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjAxLDE2OCw3NiwwLjIpJywKICAgICAgICAgICAgICBwYWRkaW5nOiAnMS41cmVtJywKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjY1cmVtJywKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC4zZW0nLAogICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMS41cmVtJywKICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgUXVpY2sgRmFjdHMKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIHtbCiAgICAgICAgICAgICAgWydPcmlnaW4nLCAnQnJhdGlzbGF2YSwgU2xvdmFraWEnXSwKICAgICAgICAgICAgICBbJ05hdGlvbmFsaXR5JywgJ0dlcm1hbiDCtyBTbG92YWsnXSwKICAgICAgICAgICAgICBbJ0Jhc2VkIEluJywgJ0JlcmxpbiDCtyBMb3MgQW5nZWxlcyddLAogICAgICAgICAgICAgIFsnVHJhaW5pbmcnLCAnTGVlIFN0cmFzYmVyZywgTEEgKDIwMjHigJMyMyknXSwKICAgICAgICAgICAgICBbJ0FnZW5jeScsICdDcmF3Zm9yZCBUYWxlbnRzJ10sCiAgICAgICAgICAgICAgWydFeWUgQ29sb3InLCAnQnJvd24nXSwKICAgICAgICAgICAgICBbJ0hhaXInLCAnRGFyayBCcm93biddLAogICAgICAgICAgICAgIFsnV29ya2luZyBQZXJtaXRzJywgJ0VVLTI3J10sCiAgICAgICAgICAgIF0ubWFwKChba2V5LCB2YWxdKSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2tleX0gc3R5bGU9e3sKICAgICAgICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsCiAgICAgICAgICAgICAgICBwYWRkaW5nQm90dG9tOiAnMC45cmVtJywKICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuOXJlbScsCiAgICAgICAgICAgICAgICBib3JkZXJCb3R0b206ICcxcHggc29saWQgcmdiYSgyNTUsMjU1LDI1NSwwLjA1KScsCiAgICAgICAgICAgICAgICBnYXA6ICcxcmVtJywKICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnMC43NXJlbScsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiAnIzhhOGE4YScsCiAgICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjA1ZW0nLAogICAgICAgICAgICAgICAgICBmbGV4U2hyaW5rOiAwLAogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgIHtrZXl9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuNzVyZW0nLAogICAgICAgICAgICAgICAgICBjb2xvcjogJyNmNWYwZWInLAogICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogJ3JpZ2h0JywKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICB7dmFsfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKQp9Cg=="}
+import { useRef } from 'react'
+import { motion, useInView } from 'framer-motion'
+
+const stats = [
+  { value: '24', label: 'Years Old' },
+  { value: '187', label: 'cm Height' },
+  { value: '3', label: 'Languages' },
+  { value: '10+', label: 'Screen Credits' },
+]
+
+export default function About() {
+  const ref = useRef(null)
+  const inView = useInView(ref, { once: true, margin: '-80px' })
+
+  return (
+    <section id="about" ref={ref} className="section-padding" style={{
+      padding: '8rem 8%',
+      background: '#0a0a0a',
+      position: 'relative',
+    }}>
+      <div style={{
+        position: 'absolute', top: 0, left: '8%', right: '8%',
+        height: '1px',
+        background: 'linear-gradient(90deg, transparent, rgba(201,168,76,0.3), transparent)',
+      }} />
+
+      <div className="about-grid">
+        {/* Left: bio */}
+        <div>
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={inView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.7 }}
+            style={{
+              fontFamily: 'Inter, sans-serif',
+              fontSize: '0.7rem',
+              letterSpacing: '0.4em',
+              textTransform: 'uppercase',
+              color: '#c9a84c',
+              marginBottom: '1.5rem',
+            }}
+          >
+            The Actor
+          </motion.div>
+
+          <motion.h2
+            initial={{ opacity: 0, y: 20 }}
+            animate={inView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.7, delay: 0.1 }}
+            style={{
+              fontFamily: 'Cormorant Garamond, serif',
+              fontSize: 'clamp(2rem, 6vw, 3.5rem)',
+              fontWeight: 300,
+              color: '#f5f0eb',
+              lineHeight: 1.15,
+              marginBottom: '2rem',
+            }}
+          >
+            Born between worlds,<br />
+            <em style={{ color: '#c9a84c' }}>defined by craft.</em>
+          </motion.h2>
+
+          <motion.div
+            initial={{ scaleX: 0 }}
+            animate={inView ? { scaleX: 1 } : {}}
+            transition={{ duration: 0.6, delay: 0.3 }}
+            style={{
+              width: '60px', height: '1px',
+              background: '#c9a84c',
+              marginBottom: '2rem',
+              transformOrigin: 'left',
+            }}
+          />
+
+          {[
+            `Born in Bratislava in 2001, Maximilian Schulze carries the rare dual identity of a German-Slovak actor who moves fluidly between European prestige and American ambition. Raised with a mother tongue that spans three languages — English, German, and Slovak — his voice is as versatile as his range.`,
+            `He honed his craft at the legendary Lee Strasberg Theatre & Film Institute in Los Angeles (2021–2023), graduating with a deep commitment to emotional truth and character complexity. His breakthrough came swiftly — an HBO credit on Nathan Fielder's acclaimed series The Rehearsal, followed by the historical action feature 24 Hours to D-Day.`,
+            `Now based between Berlin and Los Angeles, represented by Crawford Talents, Maximilian is building a body of work that bridges the intimacy of European storytelling with the scale of American production.`,
+          ].map((text, i) => (
+            <motion.p
+              key={i}
+              initial={{ opacity: 0, y: 20 }}
+              animate={inView ? { opacity: 1, y: 0 } : {}}
+              transition={{ duration: 0.7, delay: 0.35 + i * 0.1 }}
+              style={{
+                fontFamily: 'Inter, sans-serif',
+                fontSize: '0.92rem',
+                lineHeight: 1.9,
+                color: '#8a8a8a',
+                marginBottom: '1.2rem',
+              }}
+            >
+              {i === 1 ? (
+                <>
+                  He honed his craft at the legendary Lee Strasberg Theatre & Film Institute in
+                  Los Angeles (2021–2023), graduating with a deep commitment to emotional truth and
+                  character complexity. His breakthrough came swiftly — an HBO credit on Nathan Fielder's
+                  acclaimed series <em style={{ color: '#c9a84c' }}>The Rehearsal</em>, followed by the
+                  historical action feature <em style={{ color: '#c9a84c' }}>24 Hours to D-Day</em>.
+                </>
+              ) : text}
+            </motion.p>
+          ))}
+        </div>
+
+        {/* Right: stats + details */}
+        <div>
+          {/* Stats grid */}
+          <div className="stats-grid">
+            {stats.map((stat, i) => (
+              <motion.div
+                key={stat.label}
+                initial={{ opacity: 0 }}
+                animate={inView ? { opacity: 1 } : {}}
+                transition={{ duration: 0.5, delay: 0.5 + i * 0.1 }}
+                style={{
+                  background: '#0a0a0a',
+                  padding: '2rem 1.5rem',
+                  textAlign: 'center',
+                }}
+              >
+                <div style={{
+                  fontFamily: 'Cormorant Garamond, serif',
+                  fontSize: 'clamp(2.5rem, 5vw, 3.5rem)',
+                  fontWeight: 300,
+                  color: '#c9a84c',
+                  lineHeight: 1,
+                  marginBottom: '0.5rem',
+                }}>
+                  {stat.value}
+                </div>
+                <div style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.65rem',
+                  letterSpacing: '0.25em',
+                  textTransform: 'uppercase',
+                  color: '#8a8a8a',
+                }}>
+                  {stat.label}
+                </div>
+              </motion.div>
+            ))}
+          </div>
+
+          {/* Quick facts */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={inView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.7, delay: 0.7 }}
+            style={{
+              border: '1px solid rgba(201,168,76,0.2)',
+              padding: '1.5rem',
+            }}
+          >
+            <div style={{
+              fontFamily: 'Inter, sans-serif',
+              fontSize: '0.65rem',
+              letterSpacing: '0.3em',
+              textTransform: 'uppercase',
+              color: '#c9a84c',
+              marginBottom: '1.5rem',
+            }}>
+              Quick Facts
+            </div>
+            {[
+              ['Origin', 'Bratislava, Slovakia'],
+              ['Nationality', 'German · Slovak'],
+              ['Based In', 'Berlin · Los Angeles'],
+              ['Training', 'Lee Strasberg, LA (2021–23)'],
+              ['Agency', 'Crawford Talents'],
+              ['Eye Color', 'Brown'],
+              ['Hair', 'Dark Brown'],
+              ['Working Permits', 'EU-27'],
+            ].map(([key, val]) => (
+              <div key={key} style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                paddingBottom: '0.9rem',
+                marginBottom: '0.9rem',
+                borderBottom: '1px solid rgba(255,255,255,0.05)',
+                gap: '1rem',
+              }}>
+                <span style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.75rem',
+                  color: '#8a8a8a',
+                  letterSpacing: '0.05em',
+                  flexShrink: 0,
+                }}>
+                  {key}
+                </span>
+                <span style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.75rem',
+                  color: '#f5f0eb',
+                  fontWeight: 400,
+                  textAlign: 'right',
+                }}>
+                  {val}
+                </span>
+              </div>
+            ))}
+          </motion.div>
+        </div>
+      </div>
+    </section>
+  )
+}

@@ -1,1 +1,184 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JwppbXBvcnQgeyBtb3Rpb24sIEFuaW1hdGVQcmVzZW5jZSB9IGZyb20gJ2ZyYW1lci1tb3Rpb24nCmltcG9ydCB7IE1lbnUsIFggfSBmcm9tICdsdWNpZGUtcmVhY3QnCgpjb25zdCBsaW5rcyA9IFsnQWJvdXQnLCAnQ3JlZGl0cycsICdTa2lsbHMnLCAnQ29udGFjdCddCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBOYXZiYXIoKSB7CiAgY29uc3QgW3Njcm9sbGVkLCBzZXRTY3JvbGxlZF0gPSB1c2VTdGF0ZShmYWxzZSkKICBjb25zdCBbbWVudU9wZW4sIHNldE1lbnVPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKQoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3Qgb25TY3JvbGwgPSAoKSA9PiBzZXRTY3JvbGxlZCh3aW5kb3cuc2Nyb2xsWSA+IDYwKQogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIG9uU2Nyb2xsKQogICAgcmV0dXJuICgpID0+IHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdzY3JvbGwnLCBvblNjcm9sbCkKICB9LCBbXSkKCiAgLy8gUHJldmVudCBib2R5IHNjcm9sbCB3aGVuIG1lbnUgb3BlbgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBkb2N1bWVudC5ib2R5LnN0eWxlLm92ZXJmbG93ID0gbWVudU9wZW4gPyAnaGlkZGVuJyA6ICcnCiAgICByZXR1cm4gKCkgPT4geyBkb2N1bWVudC5ib2R5LnN0eWxlLm92ZXJmbG93ID0gJycgfQogIH0sIFttZW51T3Blbl0pCgogIGNvbnN0IHNjcm9sbFRvID0gKGlkKSA9PiB7CiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZC50b0xvd2VyQ2FzZSgpKT8uc2Nyb2xsSW50b1ZpZXcoeyBiZWhhdmlvcjogJ3Ntb290aCcgfSkKICAgIHNldE1lbnVPcGVuKGZhbHNlKQogIH0KCiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxtb3Rpb24ubmF2CiAgICAgICAgaW5pdGlhbD17eyB5OiAtODAgfX0KICAgICAgICBhbmltYXRlPXt7IHk6IDAgfX0KICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjgsIGRlbGF5OiAwLjIgfX0KICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICdmaXhlZCcsIHRvcDogMCwgbGVmdDogMCwgcmlnaHQ6IDAsIHpJbmRleDogMTAwMCwKICAgICAgICAgIHBhZGRpbmc6ICcxLjJyZW0gMnJlbScsCiAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLAogICAgICAgICAgYmFja2dyb3VuZDogc2Nyb2xsZWQgPyAncmdiYSgxMCwxMCwxMCwwLjk1KScgOiAndHJhbnNwYXJlbnQnLAogICAgICAgICAgYmFja2Ryb3BGaWx0ZXI6IHNjcm9sbGVkID8gJ2JsdXIoMjBweCknIDogJ25vbmUnLAogICAgICAgICAgYm9yZGVyQm90dG9tOiBzY3JvbGxlZCA/ICcxcHggc29saWQgcmdiYSgyMDEsMTY4LDc2LDAuMTUpJyA6ICdub25lJywKICAgICAgICAgIHRyYW5zaXRpb246ICdhbGwgMC40cyBlYXNlJywKICAgICAgICB9fQogICAgICA+CiAgICAgICAgey8qIExvZ28gKi99CiAgICAgICAgPGRpdgogICAgICAgICAgb25DbGljaz17KCkgPT4gd2luZG93LnNjcm9sbFRvKHsgdG9wOiAwLCBiZWhhdmlvcjogJ3Ntb290aCcgfSl9CiAgICAgICAgICBzdHlsZT17eyBjdXJzb3I6ICdwb2ludGVyJywgekluZGV4OiAxMDAxIH19CiAgICAgICAgPgogICAgICAgICAgPHNwYW4gc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogJ0Nvcm1vcmFudCBHYXJhbW9uZCwgc2VyaWYnLAogICAgICAgICAgICBmb250U2l6ZTogJzEuNHJlbScsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDMwMCwKICAgICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMTVlbScsCiAgICAgICAgICB9fT4KICAgICAgICAgICAgTVMKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIERlc2t0b3AgbmF2ICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuYXYtbGlua3MtZGVza3RvcCI+CiAgICAgICAgICB7bGlua3MubWFwKChsaW5rKSA9PiAoCiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBrZXk9e2xpbmt9CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2Nyb2xsVG8obGluayl9CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICdub25lJywgYm9yZGVyOiAnbm9uZScsIGN1cnNvcjogJ3BvaW50ZXInLAogICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ0ludGVyLCBzYW5zLXNlcmlmJywKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnMC43NXJlbScsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC4yZW0nLAogICAgICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgICAgICAgICAgICAgICBjb2xvcjogJyM4YThhOGEnLAogICAgICAgICAgICAgICAgdHJhbnNpdGlvbjogJ2NvbG9yIDAuM3MnLAogICAgICAgICAgICAgICAgcGFkZGluZzogJzAuMnJlbSAwJywKICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgIG9uTW91c2VFbnRlcj17ZSA9PiBlLnRhcmdldC5zdHlsZS5jb2xvciA9ICcjYzlhODRjJ30KICAgICAgICAgICAgICBvbk1vdXNlTGVhdmU9e2UgPT4gZS50YXJnZXQuc3R5bGUuY29sb3IgPSAnIzhhOGE4YSd9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7bGlua30KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICAgIDxhCiAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vbWF4LnNtbF8vIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgcmVsPSJub3JlZmVycmVyIgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIHBhZGRpbmc6ICcwLjVyZW0gMS4ycmVtJywKICAgICAgICAgICAgICBib3JkZXI6ICcxcHggc29saWQgI2M5YTg0YycsCiAgICAgICAgICAgICAgY29sb3I6ICcjYzlhODRjJywKICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgIGZvbnRTaXplOiAnMC43cmVtJywKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC4yZW0nLAogICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgIHRleHREZWNvcmF0aW9uOiAnbm9uZScsCiAgICAgICAgICAgICAgdHJhbnNpdGlvbjogJ2FsbCAwLjNzJywKICAgICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICAgIH19CiAgICAgICAgICAgIG9uTW91c2VFbnRlcj17ZSA9PiB7IGUudGFyZ2V0LnN0eWxlLmJhY2tncm91bmQgPSAnI2M5YTg0Yyc7IGUudGFyZ2V0LnN0eWxlLmNvbG9yID0gJyMwYTBhMGEnIH19CiAgICAgICAgICAgIG9uTW91c2VMZWF2ZT17ZSA9PiB7IGUudGFyZ2V0LnN0eWxlLmJhY2tncm91bmQgPSAndHJhbnNwYXJlbnQnOyBlLnRhcmdldC5zdHlsZS5jb2xvciA9ICcjYzlhODRjJyB9fQogICAgICAgICAgPgogICAgICAgICAgICBGb2xsb3cKICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIEhhbWJ1cmdlciAqL30KICAgICAgICA8YnV0dG9uCiAgICAgICAgICBjbGFzc05hbWU9Im5hdi1oYW1idXJnZXIiCiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRNZW51T3BlbighbWVudU9wZW4pfQogICAgICAgICAgc3R5bGU9e3sgekluZGV4OiAxMDAxIH19CiAgICAgICAgICBhcmlhLWxhYmVsPSJUb2dnbGUgbWVudSIKICAgICAgICA+CiAgICAgICAgICB7bWVudU9wZW4gPyA8WCBzaXplPXsyNH0gY29sb3I9IiNmNWYwZWIiIC8+IDogPE1lbnUgc2l6ZT17MjR9IGNvbG9yPSIjZjVmMGViIiAvPn0KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9tb3Rpb24ubmF2PgoKICAgICAgey8qIE1vYmlsZSBtZW51IG92ZXJsYXkgKi99CiAgICAgIDxBbmltYXRlUHJlc2VuY2U+CiAgICAgICAge21lbnVPcGVuICYmICgKICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEgfX0KICAgICAgICAgICAgZXhpdD17eyBvcGFjaXR5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMjUgfX0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBwb3NpdGlvbjogJ2ZpeGVkJywgdG9wOiAwLCBsZWZ0OiAwLCByaWdodDogMCwgYm90dG9tOiAwLAogICAgICAgICAgICAgIGJhY2tncm91bmQ6ICdyZ2JhKDEwLDEwLDEwLDAuOTgpJywKICAgICAgICAgICAgICB6SW5kZXg6IDk5OCwKICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ2NvbHVtbicsCiAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgICAgICAgIGdhcDogJzJyZW0nLAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICB7bGlua3MubWFwKChsaW5rLCBpKSA9PiAoCiAgICAgICAgICAgICAgPG1vdGlvbi5idXR0b24KICAgICAgICAgICAgICAgIGtleT17bGlua30KICAgICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkZWxheTogaSAqIDAuMDcgfX0KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbFRvKGxpbmspfQogICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogJ25vbmUnLCBib3JkZXI6ICdub25lJywgY3Vyc29yOiAncG9pbnRlcicsCiAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdDb3Jtb3JhbnQgR2FyYW1vbmQsIHNlcmlmJywKICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICcyLjhyZW0nLAogICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiAzMDAsCiAgICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjFlbScsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI2Y1ZjBlYicsCiAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb246ICdjb2xvciAwLjNzJywKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICBvbk1vdXNlRW50ZXI9e2UgPT4gZS50YXJnZXQuc3R5bGUuY29sb3IgPSAnI2M5YTg0Yyd9CiAgICAgICAgICAgICAgICBvbk1vdXNlTGVhdmU9e2UgPT4gZS50YXJnZXQuc3R5bGUuY29sb3IgPSAnI2Y1ZjBlYid9CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge2xpbmt9CiAgICAgICAgICAgICAgPC9tb3Rpb24uYnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgICAgPG1vdGlvbi5hCiAgICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IGxpbmtzLmxlbmd0aCAqIDAuMDcgfX0KICAgICAgICAgICAgICBocmVmPSJodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL21heC5zbWxfLyIKICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgICByZWw9Im5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIG1hcmdpblRvcDogJzFyZW0nLAogICAgICAgICAgICAgICAgcGFkZGluZzogJzAuN3JlbSAycmVtJywKICAgICAgICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCAjYzlhODRjJywKICAgICAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjc1cmVtJywKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjJlbScsCiAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgICAgIHRleHREZWNvcmF0aW9uOiAnbm9uZScsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIEZvbGxvdyBvbiBJbnN0YWdyYW0KICAgICAgICAgICAgPC9tb3Rpb24uYT4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICApfQogICAgICA8L0FuaW1hdGVQcmVzZW5jZT4KICAgIDwvPgogICkKfQo="}
+import { useState, useEffect } from 'react'
+import { motion, AnimatePresence } from 'framer-motion'
+import { Menu, X } from 'lucide-react'
+
+const links = ['About', 'Credits', 'Skills', 'Contact']
+
+export default function Navbar() {
+  const [scrolled, setScrolled] = useState(false)
+  const [menuOpen, setMenuOpen] = useState(false)
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 60)
+    window.addEventListener('scroll', onScroll)
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  // Prevent body scroll when menu open
+  useEffect(() => {
+    document.body.style.overflow = menuOpen ? 'hidden' : ''
+    return () => { document.body.style.overflow = '' }
+  }, [menuOpen])
+
+  const scrollTo = (id) => {
+    document.getElementById(id.toLowerCase())?.scrollIntoView({ behavior: 'smooth' })
+    setMenuOpen(false)
+  }
+
+  return (
+    <>
+      <motion.nav
+        initial={{ y: -80 }}
+        animate={{ y: 0 }}
+        transition={{ duration: 0.8, delay: 0.2 }}
+        style={{
+          position: 'fixed', top: 0, left: 0, right: 0, zIndex: 1000,
+          padding: '1.2rem 2rem',
+          display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+          background: scrolled ? 'rgba(10,10,10,0.95)' : 'transparent',
+          backdropFilter: scrolled ? 'blur(20px)' : 'none',
+          borderBottom: scrolled ? '1px solid rgba(201,168,76,0.15)' : 'none',
+          transition: 'all 0.4s ease',
+        }}
+      >
+        {/* Logo */}
+        <div
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          style={{ cursor: 'pointer', zIndex: 1001 }}
+        >
+          <span style={{
+            fontFamily: 'Cormorant Garamond, serif',
+            fontSize: '1.4rem',
+            fontWeight: 300,
+            color: '#f5f0eb',
+            letterSpacing: '0.15em',
+          }}>
+            MS
+          </span>
+        </div>
+
+        {/* Desktop nav */}
+        <div className="nav-links-desktop">
+          {links.map((link) => (
+            <button
+              key={link}
+              onClick={() => scrollTo(link)}
+              style={{
+                background: 'none', border: 'none', cursor: 'pointer',
+                fontFamily: 'Inter, sans-serif',
+                fontSize: '0.75rem',
+                fontWeight: 400,
+                letterSpacing: '0.2em',
+                textTransform: 'uppercase',
+                color: '#8a8a8a',
+                transition: 'color 0.3s',
+                padding: '0.2rem 0',
+              }}
+              onMouseEnter={e => e.target.style.color = '#c9a84c'}
+              onMouseLeave={e => e.target.style.color = '#8a8a8a'}
+            >
+              {link}
+            </button>
+          ))}
+          <a
+            href="https://www.instagram.com/max.sml_/"
+            target="_blank"
+            rel="noreferrer"
+            style={{
+              padding: '0.5rem 1.2rem',
+              border: '1px solid #c9a84c',
+              color: '#c9a84c',
+              fontFamily: 'Inter, sans-serif',
+              fontSize: '0.7rem',
+              letterSpacing: '0.2em',
+              textTransform: 'uppercase',
+              textDecoration: 'none',
+              transition: 'all 0.3s',
+              fontWeight: 400,
+            }}
+            onMouseEnter={e => { e.target.style.background = '#c9a84c'; e.target.style.color = '#0a0a0a' }}
+            onMouseLeave={e => { e.target.style.background = 'transparent'; e.target.style.color = '#c9a84c' }}
+          >
+            Follow
+          </a>
+        </div>
+
+        {/* Hamburger */}
+        <button
+          className="nav-hamburger"
+          onClick={() => setMenuOpen(!menuOpen)}
+          style={{ zIndex: 1001 }}
+          aria-label="Toggle menu"
+        >
+          {menuOpen ? <X size={24} color="#f5f0eb" /> : <Menu size={24} color="#f5f0eb" />}
+        </button>
+      </motion.nav>
+
+      {/* Mobile menu overlay */}
+      <AnimatePresence>
+        {menuOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.25 }}
+            style={{
+              position: 'fixed', top: 0, left: 0, right: 0, bottom: 0,
+              background: 'rgba(10,10,10,0.98)',
+              zIndex: 998,
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '2rem',
+            }}
+          >
+            {links.map((link, i) => (
+              <motion.button
+                key={link}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: i * 0.07 }}
+                onClick={() => scrollTo(link)}
+                style={{
+                  background: 'none', border: 'none', cursor: 'pointer',
+                  fontFamily: 'Cormorant Garamond, serif',
+                  fontSize: '2.8rem',
+                  fontWeight: 300,
+                  letterSpacing: '0.1em',
+                  color: '#f5f0eb',
+                  transition: 'color 0.3s',
+                }}
+                onMouseEnter={e => e.target.style.color = '#c9a84c'}
+                onMouseLeave={e => e.target.style.color = '#f5f0eb'}
+              >
+                {link}
+              </motion.button>
+            ))}
+            <motion.a
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: links.length * 0.07 }}
+              href="https://www.instagram.com/max.sml_/"
+              target="_blank"
+              rel="noreferrer"
+              style={{
+                marginTop: '1rem',
+                padding: '0.7rem 2rem',
+                border: '1px solid #c9a84c',
+                color: '#c9a84c',
+                fontFamily: 'Inter, sans-serif',
+                fontSize: '0.75rem',
+                letterSpacing: '0.2em',
+                textTransform: 'uppercase',
+                textDecoration: 'none',
+              }}
+            >
+              Follow on Instagram
+            </motion.a>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </>
+  )
+}

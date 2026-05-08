@@ -1,1 +1,57 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAnZnJhbWVyLW1vdGlvbicKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIExvYWRlcigpIHsKICByZXR1cm4gKAogICAgPG1vdGlvbi5kaXYKICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAxIH19CiAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSB9fQogICAgICBleGl0PXt7IG9wYWNpdHk6IDAgfX0KICAgICAgc3R5bGU9e3sKICAgICAgICBwb3NpdGlvbjogJ2ZpeGVkJywgaW5zZXQ6IDAsCiAgICAgICAgYmFja2dyb3VuZDogJyMwYTBhMGEnLAogICAgICAgIGRpc3BsYXk6ICdmbGV4JywgZmxleERpcmVjdGlvbjogJ2NvbHVtbicsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICB6SW5kZXg6IDk5OTksCiAgICAgIH19CiAgICA+CiAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuOCB9fQogICAgICAgIHN0eWxlPXt7IHRleHRBbGlnbjogJ2NlbnRlcicgfX0KICAgICAgPgogICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgIGZvbnRGYW1pbHk6ICdDb3Jtb3JhbnQgR2FyYW1vbmQsIHNlcmlmJywKICAgICAgICAgIGZvbnRTaXplOiAnM3JlbScsCiAgICAgICAgICBmb250V2VpZ2h0OiAzMDAsCiAgICAgICAgICBjb2xvcjogJyNmNWYwZWInLAogICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuM2VtJywKICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgbWFyZ2luQm90dG9tOiAnMC41cmVtJywKICAgICAgICB9fT4KICAgICAgICAgIE1heGltaWxpYW4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICBmb250RmFtaWx5OiAnQ29ybW9yYW50IEdhcmFtb25kLCBzZXJpZicsCiAgICAgICAgICBmb250U2l6ZTogJzNyZW0nLAogICAgICAgICAgZm9udFdlaWdodDogMzAwLAogICAgICAgICAgY29sb3I6ICcjYzlhODRjJywKICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjRlbScsCiAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICB9fT4KICAgICAgICAgIFNjaHVsemUKICAgICAgICA8L2Rpdj4KICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgbWFyZ2luVG9wOiAnMnJlbScsCiAgICAgICAgICAgIGhlaWdodDogJzFweCcsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICdsaW5lYXItZ3JhZGllbnQoOTBkZWcsIHRyYW5zcGFyZW50LCAjYzlhODRjLCB0cmFuc3BhcmVudCknLAogICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgIH19CiAgICAgICAgICBhbmltYXRlPXt7IHdpZHRoOiAnMjAwcHgnIH19CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAxLjUsIGVhc2U6ICdlYXNlSW5PdXQnIH19CiAgICAgICAgLz4KICAgICAgPC9tb3Rpb24uZGl2PgogICAgPC9tb3Rpb24uZGl2PgogICkKfQo="}
+import { motion } from 'framer-motion'
+
+export default function Loader() {
+  return (
+    <motion.div
+      initial={{ opacity: 1 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      style={{
+        position: 'fixed', inset: 0,
+        background: '#0a0a0a',
+        display: 'flex', flexDirection: 'column',
+        alignItems: 'center', justifyContent: 'center',
+        zIndex: 9999,
+      }}
+    >
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+        style={{ textAlign: 'center' }}
+      >
+        <div style={{
+          fontFamily: 'Cormorant Garamond, serif',
+          fontSize: '3rem',
+          fontWeight: 300,
+          color: '#f5f0eb',
+          letterSpacing: '0.3em',
+          textTransform: 'uppercase',
+          marginBottom: '0.5rem',
+        }}>
+          Maximilian
+        </div>
+        <div style={{
+          fontFamily: 'Cormorant Garamond, serif',
+          fontSize: '3rem',
+          fontWeight: 300,
+          color: '#c9a84c',
+          letterSpacing: '0.4em',
+          textTransform: 'uppercase',
+        }}>
+          Schulze
+        </div>
+        <motion.div
+          style={{
+            marginTop: '2rem',
+            height: '1px',
+            background: 'linear-gradient(90deg, transparent, #c9a84c, transparent)',
+            width: 0,
+          }}
+          animate={{ width: '200px' }}
+          transition={{ duration: 1.5, ease: 'easeInOut' }}
+        />
+      </motion.div>
+    </motion.div>
+  )
+}

@@ -1,1 +1,188 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmIH0gZnJvbSAncmVhY3QnCmltcG9ydCB7IG1vdGlvbiwgdXNlSW5WaWV3IH0gZnJvbSAnZnJhbWVyLW1vdGlvbicKCmNvbnN0IGNhdGVnb3JpZXMgPSBbCiAgewogICAgdGl0bGU6ICdMYW5ndWFnZXMnLAogICAgaWNvbjogJ+KXiCcsCiAgICBpdGVtczogWydFbmdsaXNoIChOYXRpdmUpJywgJ0dlcm1hbiAoTmF0aXZlKScsICdTbG92YWsgKE5hdGl2ZSknLCAnQ3plY2gnLCAnU3BhbmlzaCddLAogIH0sCiAgewogICAgdGl0bGU6ICdBY2NlbnRzJywKICAgIGljb246ICfil4gnLAogICAgaXRlbXM6IFsnQW1lcmljYW4gU3RhbmRhcmQgKE5hdGl2ZSknLCAnQ3plY2gnLCAnUnVzc2lhbicsICdTbG92YWsnXSwKICB9LAogIHsKICAgIHRpdGxlOiAnU3BvcnRzJywKICAgIGljb246ICfil4gnLAogICAgaXRlbXM6IFsnQWxwaW5lIFNraWluZycsICdTbm93Ym9hcmRpbmcnLCAnU29jY2VyJywgJ1dlaWdodCBUcmFpbmluZycsICdTY3ViYSBEaXZpbmcnXSwKICB9LAogIHsKICAgIHRpdGxlOiAnU3BlY2lhbCBTa2lsbHMnLAogICAgaWNvbjogJ+KXiCcsCiAgICBpdGVtczogWydTdHVudCBXb3JrJywgJ01vdG9yc3BvcnRzJywgJ0RydW1zJywgJ0RyaXZpbmcgKEExLCBBMiwgQiBMaWNlbnNlKSddLAogIH0sCl0KCmNvbnN0IGF3YXJkcyA9IFsKICB7IHllYXI6ICcyMDI1JywgdGl0bGU6ICdUb21vcnJvdyDigJQgU2hvcnQgRmlsbScsIG5vdGU6ICdBd2FyZCBXaW5uZXInIH0sCiAgeyB5ZWFyOiAnMjAyMycsIHRpdGxlOiAnRGFzIFNpY2hlcmUgSGF1cyDigJQgU2hvcnQgRmlsbScsIG5vdGU6ICdBd2FyZCBXaW5uZXInIH0sCiAgeyB5ZWFyOiAnMjAyMycsIHRpdGxlOiAnRWNob2VzIG9mIFRvbW9ycm93IOKAlCBTaG9ydCBGaWxtJywgbm90ZTogJ05vbWluYXRlZCcgfSwKXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU2tpbGxzKCkgewogIGNvbnN0IHJlZiA9IHVzZVJlZihudWxsKQogIGNvbnN0IGluVmlldyA9IHVzZUluVmlldyhyZWYsIHsgb25jZTogdHJ1ZSwgbWFyZ2luOiAnLTgwcHgnIH0pCgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBpZD0ic2tpbGxzIiByZWY9e3JlZn0gY2xhc3NOYW1lPSJzZWN0aW9uLXBhZGRpbmciIHN0eWxlPXt7CiAgICAgIHBhZGRpbmc6ICc4cmVtIDglJywKICAgICAgYmFja2dyb3VuZDogJyMwYTBhMGEnLAogICAgICBwb3NpdGlvbjogJ3JlbGF0aXZlJywKICAgIH19PgogICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsIHRvcDogMCwgbGVmdDogJzglJywgcmlnaHQ6ICc4JScsCiAgICAgICAgaGVpZ2h0OiAnMXB4JywKICAgICAgICBiYWNrZ3JvdW5kOiAnbGluZWFyLWdyYWRpZW50KDkwZGVnLCB0cmFuc3BhcmVudCwgcmdiYSgyMDEsMTY4LDc2LDAuMyksIHRyYW5zcGFyZW50KScsCiAgICAgIH19IC8+CgogICAgICA8ZGl2IHN0eWxlPXt7IG1heFdpZHRoOiAnMTIwMHB4JywgbWFyZ2luOiAnMCBhdXRvJyB9fT4KICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgYW5pbWF0ZT17aW5WaWV3ID8geyBvcGFjaXR5OiAxLCB5OiAwIH0gOiB7fX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNyB9fQogICAgICAgICAgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAnNHJlbScgfX0KICAgICAgICA+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgIGZvbnRTaXplOiAnMC43cmVtJywKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuNGVtJywKICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzFyZW0nLAogICAgICAgICAgfX0+CiAgICAgICAgICAgIENhcGFiaWxpdGllcwogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8aDIgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogJ0Nvcm1vcmFudCBHYXJhbW9uZCwgc2VyaWYnLAogICAgICAgICAgICBmb250U2l6ZTogJ2NsYW1wKDJyZW0sIDZ2dywgMy41cmVtKScsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDMwMCwKICAgICAgICAgICAgY29sb3I6ICcjZjVmMGViJywKICAgICAgICAgIH19PgogICAgICAgICAgICBTa2lsbHMgJiA8ZW0gc3R5bGU9e3sgY29sb3I6ICcjYzlhODRjJyB9fT5SZWNvZ25pdGlvbjwvZW0+CiAgICAgICAgICA8L2gyPgogICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgey8qIFNraWxscyBncmlkICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJza2lsbHMtZ3JpZCI+CiAgICAgICAgICB7Y2F0ZWdvcmllcy5tYXAoKGNhdCwgaSkgPT4gKAogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGtleT17Y2F0LnRpdGxlfQogICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgICBhbmltYXRlPXtpblZpZXcgPyB7IG9wYWNpdHk6IDEsIHk6IDAgfSA6IHt9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuMiArIGkgKiAwLjEgfX0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogJyMwYTBhMGEnLAogICAgICAgICAgICAgICAgcGFkZGluZzogJzJyZW0nLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgICAgIGdhcDogJzAuOHJlbScsCiAgICAgICAgICAgICAgICBtYXJnaW5Cb3R0b206ICcxLjVyZW0nLAogICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjYzlhODRjJywgZm9udFNpemU6ICcwLjlyZW0nIH19PntjYXQuaWNvbn08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuN3JlbScsCiAgICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjI1ZW0nLAogICAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgICAgICAgY29sb3I6ICcjYzlhODRjJywKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICB7Y2F0LnRpdGxlfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBmbGV4V3JhcDogJ3dyYXAnLCBnYXA6ICcwLjZyZW0nIH19PgogICAgICAgICAgICAgICAge2NhdC5pdGVtcy5tYXAoKGl0ZW0pID0+ICgKICAgICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgICBrZXk9e2l0ZW19CiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogJ2NsYW1wKDAuN3JlbSwgMnZ3LCAwLjc4cmVtKScsCiAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJyNmNWYwZWInLAogICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogJ3JnYmEoMjU1LDI1NSwyNTUsMC4wNCknLAogICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjU1LDI1NSwyNTUsMC4wOCknLAogICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzAuNHJlbSAwLjhyZW0nLAogICAgICAgICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMDNlbScsCiAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHtpdGVtfQogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBBd2FyZHMgKi99CiAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIGFuaW1hdGU9e2luVmlldyA/IHsgb3BhY2l0eTogMSwgeTogMCB9IDoge319CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjcsIGRlbGF5OiAwLjUgfX0KICAgICAgICA+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdJbnRlciwgc2Fucy1zZXJpZicsCiAgICAgICAgICAgIGZvbnRTaXplOiAnMC43cmVtJywKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuNGVtJywKICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgICAgICAgICAgIGNvbG9yOiAnI2M5YTg0YycsCiAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzJyZW0nLAogICAgICAgICAgfX0+CiAgICAgICAgICAgIEF3YXJkcyAmIFJlY29nbml0aW9uCiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhd2FyZHMtcm93Ij4KICAgICAgICAgICAge2F3YXJkcy5tYXAoKGF3YXJkKSA9PiAoCiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAga2V5PXthd2FyZC50aXRsZX0KICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGZsZXg6ICcxJywKICAgICAgICAgICAgICAgICAgbWluV2lkdGg6ICcyMjBweCcsCiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICdyZ2JhKDIwMSwxNjgsNzYsMC4wNCknLAogICAgICAgICAgICAgICAgICBib3JkZXI6ICcxcHggc29saWQgcmdiYSgyMDEsMTY4LDc2LDAuMiknLAogICAgICAgICAgICAgICAgICBwYWRkaW5nOiAnMS44cmVtJywKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnQ29ybW9yYW50IEdhcmFtb25kLCBzZXJpZicsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAnY2xhbXAoMS41cmVtLCA1dncsIDJyZW0pJywKICAgICAgICAgICAgICAgICAgY29sb3I6ICcjYzlhODRjJywKICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnMC41cmVtJywKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICB7YXdhcmQueWVhcn0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuODJyZW0nLAogICAgICAgICAgICAgICAgICBjb2xvcjogJyNmNWYwZWInLAogICAgICAgICAgICAgICAgICBtYXJnaW5Cb3R0b206ICcwLjRyZW0nLAogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgIHthd2FyZC50aXRsZX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnLAogICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuNjVyZW0nLAogICAgICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnMC4yZW0nLAogICAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgICAgICAgY29sb3I6IGF3YXJkLm5vdGUgPT09ICdOb21pbmF0ZWQnID8gJyM4YThhOGEnIDogJyNjOWE4NGMnLAogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgIHthd2FyZC5ub3RlfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0K"}
+import { useRef } from 'react'
+import { motion, useInView } from 'framer-motion'
+
+const categories = [
+  {
+    title: 'Languages',
+    icon: '◈',
+    items: ['English (Native)', 'German (Native)', 'Slovak (Native)', 'Czech', 'Spanish'],
+  },
+  {
+    title: 'Accents',
+    icon: '◈',
+    items: ['American Standard (Native)', 'Czech', 'Russian', 'Slovak'],
+  },
+  {
+    title: 'Sports',
+    icon: '◈',
+    items: ['Alpine Skiing', 'Snowboarding', 'Soccer', 'Weight Training', 'Scuba Diving'],
+  },
+  {
+    title: 'Special Skills',
+    icon: '◈',
+    items: ['Stunt Work', 'Motorsports', 'Drums', 'Driving (A1, A2, B License)'],
+  },
+]
+
+const awards = [
+  { year: '2025', title: 'Tomorrow — Short Film', note: 'Award Winner' },
+  { year: '2023', title: 'Das Sichere Haus — Short Film', note: 'Award Winner' },
+  { year: '2023', title: 'Echoes of Tomorrow — Short Film', note: 'Nominated' },
+]
+
+export default function Skills() {
+  const ref = useRef(null)
+  const inView = useInView(ref, { once: true, margin: '-80px' })
+
+  return (
+    <section id="skills" ref={ref} className="section-padding" style={{
+      padding: '8rem 8%',
+      background: '#0a0a0a',
+      position: 'relative',
+    }}>
+      <div style={{
+        position: 'absolute', top: 0, left: '8%', right: '8%',
+        height: '1px',
+        background: 'linear-gradient(90deg, transparent, rgba(201,168,76,0.3), transparent)',
+      }} />
+
+      <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={inView ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.7 }}
+          style={{ marginBottom: '4rem' }}
+        >
+          <div style={{
+            fontFamily: 'Inter, sans-serif',
+            fontSize: '0.7rem',
+            letterSpacing: '0.4em',
+            textTransform: 'uppercase',
+            color: '#c9a84c',
+            marginBottom: '1rem',
+          }}>
+            Capabilities
+          </div>
+          <h2 style={{
+            fontFamily: 'Cormorant Garamond, serif',
+            fontSize: 'clamp(2rem, 6vw, 3.5rem)',
+            fontWeight: 300,
+            color: '#f5f0eb',
+          }}>
+            Skills & <em style={{ color: '#c9a84c' }}>Recognition</em>
+          </h2>
+        </motion.div>
+
+        {/* Skills grid */}
+        <div className="skills-grid">
+          {categories.map((cat, i) => (
+            <motion.div
+              key={cat.title}
+              initial={{ opacity: 0, y: 20 }}
+              animate={inView ? { opacity: 1, y: 0 } : {}}
+              transition={{ duration: 0.6, delay: 0.2 + i * 0.1 }}
+              style={{
+                background: '#0a0a0a',
+                padding: '2rem',
+              }}
+            >
+              <div style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '0.8rem',
+                marginBottom: '1.5rem',
+              }}>
+                <span style={{ color: '#c9a84c', fontSize: '0.9rem' }}>{cat.icon}</span>
+                <span style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.7rem',
+                  letterSpacing: '0.25em',
+                  textTransform: 'uppercase',
+                  color: '#c9a84c',
+                }}>
+                  {cat.title}
+                </span>
+              </div>
+              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.6rem' }}>
+                {cat.items.map((item) => (
+                  <span
+                    key={item}
+                    style={{
+                      fontFamily: 'Inter, sans-serif',
+                      fontSize: 'clamp(0.7rem, 2vw, 0.78rem)',
+                      color: '#f5f0eb',
+                      background: 'rgba(255,255,255,0.04)',
+                      border: '1px solid rgba(255,255,255,0.08)',
+                      padding: '0.4rem 0.8rem',
+                      letterSpacing: '0.03em',
+                    }}
+                  >
+                    {item}
+                  </span>
+                ))}
+              </div>
+            </motion.div>
+          ))}
+        </div>
+
+        {/* Awards */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={inView ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.7, delay: 0.5 }}
+        >
+          <div style={{
+            fontFamily: 'Inter, sans-serif',
+            fontSize: '0.7rem',
+            letterSpacing: '0.4em',
+            textTransform: 'uppercase',
+            color: '#c9a84c',
+            marginBottom: '2rem',
+          }}>
+            Awards & Recognition
+          </div>
+          <div className="awards-row">
+            {awards.map((award) => (
+              <div
+                key={award.title}
+                style={{
+                  flex: '1',
+                  minWidth: '220px',
+                  background: 'rgba(201,168,76,0.04)',
+                  border: '1px solid rgba(201,168,76,0.2)',
+                  padding: '1.8rem',
+                }}
+              >
+                <div style={{
+                  fontFamily: 'Cormorant Garamond, serif',
+                  fontSize: 'clamp(1.5rem, 5vw, 2rem)',
+                  color: '#c9a84c',
+                  marginBottom: '0.5rem',
+                }}>
+                  {award.year}
+                </div>
+                <div style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.82rem',
+                  color: '#f5f0eb',
+                  marginBottom: '0.4rem',
+                }}>
+                  {award.title}
+                </div>
+                <div style={{
+                  fontFamily: 'Inter, sans-serif',
+                  fontSize: '0.65rem',
+                  letterSpacing: '0.2em',
+                  textTransform: 'uppercase',
+                  color: award.note === 'Nominated' ? '#8a8a8a' : '#c9a84c',
+                }}>
+                  {award.note}
+                </div>
+              </div>
+            ))}
+          </div>
+        </motion.div>
+      </div>
+    </section>
+  )
+}
